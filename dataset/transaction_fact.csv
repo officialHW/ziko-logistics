@@ -1,0 +1,1006 @@
+Transaction_ID,Date,Customer_ID,Product_ID,Total_Cost,Sales_Channel,Order_Priority,Warehouse_Code,Ship_Mode,Delivery_Status,Customer_Satisfaction,Item_Returned,Return_Reason,Payment_Type,Taxable,Region,Country
+200,2020-01-01 20:32:25.945945945,1086,536,8265.37454940804,Online,High,WH-3,2-Day,Cancelled,Neutral,False,Wrong Item,Wire Transfer,False,West,Canada
+321,2020-01-02 06:55:08.108108108,1078,523,4047.8504787607,Reseller,Critical,WH-1,Overnight,Backorder,Satisfied,True,Damaged,PayPal,True,South,Mexico
+989,2020-01-06 08:12:58.378378378,1077,535,5096.553818483975,Direct,Critical,WH-1,Overnight,Pending,Unsatisfied,True,Damaged,PayPal,True,West,Canada
+682,2020-01-07 22:03:14.594594594,1027,546,8194.281992877543,Reseller,Medium,WH-1,Express,Pending,Unsatisfied,False,Wrong Item,Cash,True,South,Canada
+484,2020-01-07 07:08:06.486486486,1052,556,8331.32924886882,Direct,Low,WH-2,2-Day,Delivered,Satisfied,True,Late,Cash,False,South,Mexico
+483,2020-01-01 21:11:21.081081081,1074,549,6894.375243656562,Reseller,Medium,WH-3,2-Day,Backorder,Unsatisfied,True,Not Specified,PayPal,False,South,USA
+757,2020-01-01 21:11:21.081081081,1061,547,4611.329101247279,Direct,Critical,WH-3,Express,Cancelled,Neutral,False,Late,Credit Card,True,South,Canada
+985,2020-01-06 00:25:56.756756756,1040,542,7623.669347238553,Direct,Critical,WH-2,Overnight,Delivered,Neutral,True,Not Specified,Credit Card,False,North,Canada
+795,2020-01-08 03:53:30.810810810,1014,533,6194.880826757808,Direct,Medium,WH-1,Express,Delivered,Neutral,True,Late,PayPal,False,East,Mexico
+459,2020-01-06 22:16:12.972972973,1040,529,5933.960843694132,Partner,Critical,WH-3,Overnight,Pending,Unsatisfied,True,Late,Credit Card,False,South,USA
+826,2020-01-02 04:32:25.945945945,1039,521,4697.420195618569,Reseller,Medium,WH-2,Overnight,Delivered,Unsatisfied,False,Wrong Item,Cash,True,East,Canada
+116,2020-01-07 12:32:25.945945946,1080,535,5350.517195865819,Direct,Critical,WH-2,Regular,Cancelled,Satisfied,False,Not Specified,Cash,True,East,Canada
+417,2020-01-06 05:11:21.081081081,1076,555,980.913486556204,Partner,High,WH-3,Express,Backorder,Unsatisfied,False,Damaged,Credit Card,True,West,Canada
+367,2020-01-08 22:16:12.972972973,1097,524,5943.900905880649,Partner,Critical,WH-3,Express,Delivered,Unsatisfied,False,Wrong Item,Credit Card,False,East,Canada
+233,2020-01-05 13:11:21.081081081,1070,508,6757.282871927786,Reseller,Medium,WH-1,Overnight,Delivered,Unsatisfied,True,Late,Credit Card,False,North,Mexico
+191,2020-01-05 23:34:03.243243243,1099,546,4743.788008955943,Partner,Medium,WH-1,Regular,Pending,Satisfied,True,Late,PayPal,False,North,USA
+891,2020-01-06 22:29:11.351351351,1056,523,5013.353792234297,Direct,High,WH-2,Regular,Cancelled,Neutral,False,Damaged,Wire Transfer,False,West,Canada
+770,2020-01-05 17:17:50.270270270,1021,510,9438.36161081244,Direct,Medium,WH-1,2-Day,Delivered,Neutral,True,Late,Credit Card,False,North,Canada
+387,2020-01-07 01:17:50.270270270,1036,515,7036.432792204224,Online,High,WH-1,Express,Backorder,Neutral,True,Wrong Item,Credit Card,False,South,Canada
+641,2020-01-02 09:04:51.891891891,1099,549,6980.821047923439,Direct,Low,WH-1,Express,Cancelled,Unsatisfied,False,Damaged,Credit Card,True,West,USA
+278,2020-01-02 00:12:58.378378378,1020,542,5034.828782162813,Partner,Low,WH-1,Regular,Pending,Satisfied,False,Late,Cash,True,North,Mexico
+649,2020-01-02 23:21:04.864864864,1096,535,7657.985051266169,Partner,Low,WH-3,Overnight,Backorder,Satisfied,False,Damaged,Cash,True,South,Mexico
+599,2020-01-06 21:50:16.216216216,1046,548,3755.9437915651183,Reseller,High,WH-1,Overnight,Delivered,Unsatisfied,False,Late,Credit Card,True,West,Canada
+516,2020-01-08 01:30:48.648648648,1026,520,881.3191613109819,Reseller,Low,WH-3,Express,Delivered,Neutral,False,Damaged,PayPal,False,West,Mexico
+871,2020-01-03 06:16:12.972972972,1018,521,6869.126171070717,Partner,High,WH-2,Overnight,Pending,Unsatisfied,True,Damaged,Credit Card,True,West,USA
+46,2020-01-09 18:48:38.918918919,1062,531,7743.24610741125,Partner,High,WH-3,Overnight,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,East,Canada
+481,2020-01-02 14:55:08.108108108,1053,537,6887.646511271185,Direct,Critical,WH-3,2-Day,Delivered,Neutral,True,Damaged,PayPal,False,West,USA
+671,2020-01-07 19:40:32.432432432,1100,534,5671.2764325260505,Reseller,Low,WH-2,Overnight,Pending,Unsatisfied,False,Not Specified,Wire Transfer,True,West,Mexico
+744,2020-01-04 09:04:51.891891891,1025,542,6154.682460834315,Direct,High,WH-3,Regular,Pending,Satisfied,True,Not Specified,Credit Card,True,North,Mexico
+375,2020-01-02 10:22:42.162162162,1006,524,7419.523116226637,Direct,Critical,WH-2,Regular,Backorder,Neutral,False,Late,Credit Card,True,North,Mexico
+717,2020-01-01 02:22:42.162162162,1054,528,3869.92128893702,Partner,High,WH-3,Regular,Pending,Satisfied,True,Not Specified,Credit Card,False,West,USA
+136,2020-01-05 16:25:56.756756756,1005,544,4107.639467733516,Partner,High,WH-2,Regular,Backorder,Neutral,True,Not Specified,Wire Transfer,True,West,USA
+166,2020-01-08 05:50:16.216216216,1036,516,3135.9144573870635,Online,Low,WH-2,Express,Delivered,Unsatisfied,True,Not Specified,Credit Card,False,East,Canada
+651,2020-01-01 09:56:45.405405405,1081,546,5096.553818483975,Reseller,High,WH-2,Regular,Pending,Satisfied,True,Damaged,Wire Transfer,True,East,Canada
+779,2020-01-06 08:38:55.135135135,1012,526,6016.129646141524,Reseller,Critical,WH-3,2-Day,Backorder,Satisfied,False,Late,Wire Transfer,True,North,Canada
+902,2020-01-02 16:51:53.513513513,1004,531,4293.659511892614,Online,Medium,WH-1,2-Day,Cancelled,Satisfied,True,Unknown,PayPal,True,North,Mexico
+228,2020-01-04 01:17:50.270270270,1070,525,1607.5392082791188,Partner,Low,WH-2,2-Day,Delivered,Neutral,True,Not Specified,Credit Card,False,South,USA
+34,2020-01-03 19:40:32.432432432,1074,529,4028.93899493158,Reseller,Low,WH-1,2-Day,Backorder,Unsatisfied,True,Not Specified,Wire Transfer,True,South,Canada
+612,2020-01-02 03:14:35.675675675,1007,538,3887.663671868953,Direct,High,WH-2,Regular,Cancelled,Neutral,True,Not Specified,Cash,True,South,Canada
+234,2020-01-04 03:01:37.297297297,1070,511,9349.77168594007,Reseller,High,WH-1,Express,Cancelled,Satisfied,False,Not Specified,Cash,True,West,Mexico
+50,2020-01-07 04:19:27.567567567,1092,545,2167.170460122895,Online,Critical,WH-2,Regular,Delivered,Unsatisfied,True,Late,Wire Transfer,False,West,Mexico
+8,2020-01-01 04:19:27.567567567,1085,536,5852.379462596614,Partner,Medium,WH-3,Regular,Backorder,Satisfied,True,Damaged,Cash,False,West,Canada
+330,2020-01-06 22:29:11.351351351,1064,546,2226.899238564938,Partner,Medium,WH-2,2-Day,Backorder,Unsatisfied,True,Unknown,Cash,False,West,Mexico
+822,2020-01-09 09:56:45.405405405,1040,525,5096.553818483975,Online,Critical,WH-2,2-Day,Pending,Satisfied,True,Wrong Item,PayPal,False,North,USA
+804,2020-01-08 23:08:06.486486486,1082,533,3854.4774449147,Online,Low,WH-3,Overnight,Cancelled,Satisfied,False,Not Specified,PayPal,False,East,Canada
+875,2020-01-08 21:11:21.081081081,1048,550,4446.708505624851,Reseller,High,WH-1,2-Day,Delivered,Unsatisfied,True,Wrong Item,Wire Transfer,True,West,Canada
+932,2020-01-04 14:42:09.729729729,1003,501,3876.6737049585863,Partner,Medium,WH-3,2-Day,Delivered,Neutral,False,Unknown,Credit Card,False,South,USA
+336,2020-01-09 16:00:00.000000000,1011,553,8853.637048945504,Partner,Low,WH-1,Express,Pending,Neutral,True,Damaged,PayPal,True,North,USA
+881,2020-01-05 18:35:40.540540540,1049,522,5096.553818483975,Partner,Low,WH-2,Regular,Pending,Neutral,False,Damaged,Wire Transfer,False,North,USA
+322,2020-01-06 11:27:34.054054054,1075,512,2925.695550750819,Reseller,Medium,WH-2,2-Day,Delivered,Neutral,False,Damaged,Credit Card,True,North,Canada
+980,2020-01-05 03:27:34.054054054,1062,552,5982.612282685112,Online,Critical,WH-2,Regular,Cancelled,Satisfied,True,Damaged,Cash,True,South,Mexico
+374,2020-01-01 07:47:01.621621621,1070,560,4253.975325986898,Reseller,High,WH-1,Regular,Cancelled,Unsatisfied,False,Damaged,Cash,True,West,USA
+54,2020-01-06 02:22:42.162162162,1026,519,6625.079861479777,Online,Low,WH-1,Express,Pending,Neutral,False,Wrong Item,Cash,False,East,Canada
+997,2020-01-08 09:56:45.405405405,1097,516,1274.9617933079762,Direct,Critical,WH-3,Express,Delivered,Neutral,True,Late,PayPal,False,South,Canada
+169,2020-01-08 20:19:27.567567567,1099,560,597.7027113890742,Reseller,Low,WH-1,Overnight,Pending,Neutral,False,Late,Credit Card,True,North,Canada
+427,2020-01-02 17:56:45.405405405,1069,556,6089.346099339957,Online,High,WH-3,2-Day,Delivered,Unsatisfied,True,Late,Wire Transfer,False,South,Canada
+801,2020-01-05 13:11:21.081081081,1059,535,5096.553818483975,Direct,Critical,WH-1,Overnight,Backorder,Unsatisfied,True,Late,Wire Transfer,False,West,USA
+592,2020-01-06 21:37:17.837837837,1008,502,6520.260197772526,Online,Medium,WH-1,Express,Delivered,Satisfied,False,Damaged,PayPal,False,North,Mexico
+764,2020-01-02 16:51:53.513513513,1062,522,1261.7741897150763,Reseller,Medium,WH-2,2-Day,Pending,Unsatisfied,False,Wrong Item,PayPal,False,North,Mexico
+853,2020-01-01 06:03:14.594594594,1093,503,9486.723453533194,Partner,Medium,WH-1,Regular,Delivered,Unsatisfied,False,Not Specified,PayPal,False,West,USA
+211,2020-01-05 17:17:50.270270270,1018,524,3481.841726892759,Online,High,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Credit Card,False,East,USA
+493,2020-01-03 07:08:06.486486486,1038,520,1983.9143253406933,Online,Low,WH-3,Express,Delivered,Satisfied,True,Not Specified,Credit Card,False,South,Canada
+930,2020-01-05 18:48:38.918918918,1017,556,9919.561370360172,Partner,Low,WH-3,Regular,Pending,Neutral,False,Not Specified,Wire Transfer,True,East,Canada
+916,2020-01-07 01:04:51.891891891,1005,508,1829.8800788567476,Direct,Medium,WH-1,Overnight,Backorder,Satisfied,False,Late,Wire Transfer,False,South,Canada
+701,2020-01-05 21:37:17.837837837,1002,515,7684.411018513126,Partner,Low,WH-1,Express,Backorder,Unsatisfied,True,Wrong Item,Wire Transfer,False,South,USA
+88,2020-01-06 01:17:50.270270270,1052,514,5096.553818483975,Partner,Medium,WH-3,2-Day,Cancelled,Neutral,False,Late,Credit Card,True,East,USA
+937,2020-01-02 06:42:09.729729729,1073,506,6140.916003462796,Online,Low,WH-1,Express,Cancelled,Satisfied,False,Wrong Item,Cash,False,West,Mexico
+364,2020-01-04 02:35:40.540540540,1097,521,5098.195438839339,Online,Critical,WH-1,Regular,Backorder,Neutral,True,Not Specified,PayPal,False,South,Canada
+885,2020-01-02 13:11:21.081081081,1059,544,2750.777942018873,Online,Low,WH-2,Regular,Cancelled,Neutral,True,Late,PayPal,False,West,USA
+462,2020-01-02 17:17:50.270270270,1011,530,1962.04909459085,Reseller,High,WH-2,Express,Pending,Satisfied,False,Late,Wire Transfer,False,North,USA
+301,2020-01-07 09:17:50.270270270,1040,547,5018.163822309079,Partner,Medium,WH-3,2-Day,Backorder,Satisfied,False,Damaged,Cash,True,South,Canada
+886,2020-01-06 20:58:22.702702702,1037,502,1421.173874171535,Online,Medium,WH-3,Regular,Cancelled,Satisfied,True,Unknown,Wire Transfer,False,West,Canada
+528,2020-01-08 19:14:35.675675675,1061,531,8545.42863207505,Partner,High,WH-1,Express,Cancelled,Satisfied,True,Late,Cash,False,West,Mexico
+569,2020-01-08 12:58:22.702702702,1083,526,5857.235884178425,Direct,Low,WH-1,Regular,Cancelled,Unsatisfied,True,Not Specified,Cash,True,West,USA
+787,2020-01-06 12:06:29.189189189,1016,560,1318.255321104963,Online,High,WH-2,Regular,Backorder,Unsatisfied,True,Wrong Item,PayPal,False,South,USA
+762,2020-01-06 23:21:04.864864864,1047,554,6072.927223694795,Online,Medium,WH-1,Express,Cancelled,Unsatisfied,True,Damaged,PayPal,True,South,Mexico
+120,2020-01-08 21:50:16.216216216,1008,515,5262.118623944429,Partner,Low,WH-2,2-Day,Cancelled,Unsatisfied,True,Unknown,Wire Transfer,False,North,Mexico
+614,2020-01-09 04:06:29.189189189,1023,506,622.5259630004916,Direct,High,WH-3,2-Day,Pending,Unsatisfied,False,Unknown,Wire Transfer,True,North,Canada
+938,2020-01-04 17:30:48.648648648,1068,522,5968.137572080779,Direct,Low,WH-1,Regular,Cancelled,Neutral,True,Not Specified,Credit Card,False,South,Mexico
+460,2020-01-05 15:21:04.864864864,1041,510,8151.60712834987,Partner,High,WH-3,Regular,Delivered,Neutral,False,Damaged,Cash,True,West,Mexico
+217,2020-01-08 03:53:30.810810810,1083,521,5096.553818483975,Direct,Low,WH-3,Overnight,Cancelled,Unsatisfied,True,Unknown,Credit Card,False,East,USA
+10,2020-01-02 02:09:43.783783783,1063,538,1802.91063745106,Online,High,WH-3,Regular,Backorder,Unsatisfied,True,Not Specified,Wire Transfer,False,South,Mexico
+51,2020-01-09 14:55:08.108108108,1095,535,5893.409520345019,Partner,Low,WH-1,Express,Cancelled,Satisfied,False,Not Specified,Credit Card,True,South,Canada
+688,2020-01-07 19:53:30.810810810,1098,521,2304.3932963468287,Partner,Critical,WH-2,2-Day,Delivered,Unsatisfied,True,Late,PayPal,True,North,Canada
+243,2020-01-06 16:38:55.135135135,1055,532,8109.3166538319665,Reseller,Critical,WH-3,Regular,Delivered,Neutral,False,Damaged,Credit Card,False,South,USA
+961,2020-01-07 01:56:45.405405405,1079,557,3237.7529966155303,Online,Low,WH-2,Regular,Cancelled,Satisfied,True,Unknown,Credit Card,False,East,Mexico
+265,2020-01-05 05:50:16.216216216,1075,552,4596.7217630198,Direct,Critical,WH-3,2-Day,Cancelled,Satisfied,True,Unknown,PayPal,False,West,Canada
+525,2020-01-07 03:14:35.675675675,1086,529,1696.5743656039035,Reseller,Critical,WH-2,Express,Delivered,Unsatisfied,True,Wrong Item,Credit Card,True,West,USA
+967,2020-01-05 20:32:25.945945945,1018,523,6055.864207405013,Partner,Low,WH-3,Overnight,Delivered,Neutral,True,Late,Credit Card,False,North,Canada
+245,2020-01-09 18:09:43.783783783,1003,516,5980.145120760652,Direct,Critical,WH-1,Express,Pending,Neutral,True,Late,Credit Card,False,East,USA
+346,2020-01-06 18:09:43.783783783,1026,537,6536.436390188143,Partner,Critical,WH-2,Overnight,Delivered,Satisfied,False,Damaged,Wire Transfer,False,South,USA
+390,2020-01-06 06:42:09.729729729,1057,506,2221.2411509757867,Online,Low,WH-2,2-Day,Delivered,Unsatisfied,False,Wrong Item,Wire Transfer,True,South,USA
+133,2020-01-01 13:50:16.216216216,1051,527,6279.035250073831,Reseller,High,WH-1,Overnight,Pending,Unsatisfied,True,Damaged,Cash,True,West,USA
+159,2020-01-09 08:51:53.513513513,1056,549,6308.904306643778,Direct,Medium,WH-3,Overnight,Delivered,Unsatisfied,True,Not Specified,Cash,False,North,Mexico
+378,2020-01-01 21:11:21.081081081,1051,551,8151.585408936801,Reseller,Low,WH-2,2-Day,Delivered,Satisfied,False,Wrong Item,PayPal,True,South,USA
+458,2020-01-08 08:12:58.378378378,1078,510,2032.98990468964,Partner,Low,WH-2,Overnight,Cancelled,Neutral,False,Not Specified,PayPal,True,West,USA
+653,2020-01-07 17:56:45.405405405,1009,510,6382.1409859754485,Online,Critical,WH-3,Regular,Backorder,Neutral,True,Late,Cash,True,West,USA
+831,2020-01-08 14:03:14.594594594,1025,539,985.9269533937776,Direct,Medium,WH-1,Regular,Backorder,Satisfied,False,Late,Cash,False,North,Canada
+626,2020-01-05 09:17:50.270270270,1020,507,1402.1701146695768,Partner,Critical,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Wire Transfer,False,South,Mexico
+431,2020-01-07 04:32:25.945945946,1038,502,3114.7722198515785,Reseller,Low,WH-1,Express,Cancelled,Satisfied,False,Damaged,Credit Card,True,North,USA
+923,2020-01-02 21:50:16.216216216,1099,528,6916.832430696043,Direct,Critical,WH-3,2-Day,Pending,Neutral,False,Not Specified,PayPal,True,South,Canada
+315,2020-01-06 11:40:32.432432432,1095,542,3869.328947358287,Partner,Critical,WH-3,2-Day,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Canada
+526,2020-01-07 19:53:30.810810810,1092,557,9801.939773455848,Reseller,Critical,WH-2,Overnight,Delivered,Satisfied,False,Wrong Item,Cash,False,West,USA
+667,2020-01-04 04:58:22.702702702,1070,526,1317.3054918129606,Partner,Medium,WH-2,2-Day,Pending,Neutral,True,Late,Cash,False,East,Canada
+311,2020-01-03 15:21:04.864864864,1024,526,6321.560437596849,Reseller,High,WH-3,Express,Backorder,Unsatisfied,False,Not Specified,Cash,False,South,Mexico
+627,2020-01-03 03:01:37.297297297,1011,525,3491.7252235945093,Direct,Medium,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Cash,False,North,Canada
+908,2020-01-08 09:56:45.405405405,1054,530,7443.268284873524,Online,Medium,WH-1,Express,Pending,Neutral,True,Wrong Item,Credit Card,False,South,Mexico
+553,2020-01-07 12:58:22.702702702,1047,538,3653.729294990532,Partner,High,WH-3,2-Day,Delivered,Neutral,True,Wrong Item,PayPal,True,West,USA
+724,2020-01-01 07:21:04.864864864,1033,518,4699.317498845673,Reseller,Medium,WH-2,2-Day,Backorder,Satisfied,False,Late,Credit Card,True,South,USA
+498,2020-01-07 14:42:09.729729729,1034,537,5989.166977385305,Partner,Low,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Credit Card,True,West,Mexico
+331,2020-01-07 20:58:22.702702702,1022,536,1989.720700509654,Online,High,WH-1,Overnight,Delivered,Unsatisfied,False,Unknown,Wire Transfer,False,South,Canada
+45,2020-01-07 07:08:06.486486486,1004,540,4812.9041563971405,Reseller,High,WH-1,Regular,Delivered,Neutral,False,Wrong Item,Cash,True,West,Mexico
+327,2020-01-05 04:06:29.189189189,1035,558,5096.553818483975,Online,Low,WH-1,Overnight,Cancelled,Neutral,False,Late,PayPal,False,North,Canada
+555,2020-01-08 16:25:56.756756756,1092,547,629.9829402264705,Reseller,High,WH-1,Regular,Backorder,Neutral,False,Late,Wire Transfer,True,North,Canada
+565,2020-01-04 01:43:47.027027027,1003,530,9670.375874488798,Reseller,Critical,WH-3,2-Day,Delivered,Unsatisfied,True,Unknown,Credit Card,True,South,USA
+574,2020-01-09 22:29:11.351351351,1092,512,3739.106428637804,Reseller,High,WH-1,Regular,Pending,Neutral,True,Wrong Item,Wire Transfer,True,North,Mexico
+890,2020-01-01 12:19:27.567567567,1039,534,5695.824321862031,Partner,High,WH-1,Express,Cancelled,Neutral,True,Wrong Item,Cash,True,West,Canada
+449,2020-01-03 11:40:32.432432432,1068,523,1293.4866894601782,Direct,Low,WH-3,Overnight,Backorder,Satisfied,True,Wrong Item,Credit Card,False,North,Canada
+509,2020-01-06 23:08:06.486486486,1070,505,9377.113868157694,Reseller,Medium,WH-1,2-Day,Cancelled,Neutral,False,Late,Wire Transfer,True,East,Mexico
+735,2020-01-06 13:11:21.081081081,1073,544,4313.886901345911,Reseller,High,WH-1,Express,Cancelled,Neutral,False,Not Specified,Wire Transfer,False,East,Mexico
+684,2020-01-05 15:21:04.864864864,1031,544,7437.106318693867,Reseller,Critical,WH-2,Regular,Pending,Unsatisfied,False,Damaged,Cash,True,North,Canada
+71,2020-01-07 23:47:01.621621621,1014,536,5096.553818483975,Online,Medium,WH-3,Regular,Pending,Unsatisfied,False,Damaged,PayPal,True,East,Canada
+730,2020-01-09 07:08:06.486486486,1062,525,9568.376324158702,Reseller,Medium,WH-1,Express,Backorder,Unsatisfied,True,Damaged,PayPal,False,South,Canada
+124,2020-01-02 22:42:09.729729729,1025,511,4662.696825859272,Reseller,High,WH-1,Express,Delivered,Neutral,False,Wrong Item,Wire Transfer,True,West,Mexico
+931,2020-01-04 23:08:06.486486486,1088,544,2478.996205080921,Reseller,High,WH-2,Express,Cancelled,Unsatisfied,False,Wrong Item,PayPal,True,South,USA
+882,2020-01-01 08:12:58.378378378,1088,506,7422.234700247725,Reseller,Low,WH-2,Regular,Backorder,Satisfied,False,Damaged,Credit Card,True,West,USA
+624,2020-01-06 00:51:53.513513513,1047,524,4192.900304827193,Partner,High,WH-1,Express,Cancelled,Unsatisfied,True,Late,Wire Transfer,False,East,Canada
+546,2020-01-08 22:42:09.729729729,1030,550,6256.971189074742,Partner,Medium,WH-3,Regular,Delivered,Satisfied,True,Late,PayPal,False,South,Mexico
+755,2020-01-07 15:34:03.243243243,1059,545,1862.9598416711904,Reseller,Medium,WH-1,2-Day,Backorder,Satisfied,False,Late,Credit Card,False,North,USA
+591,2020-01-08 09:04:51.891891891,1092,528,6787.428558582983,Direct,Critical,WH-2,Overnight,Backorder,Unsatisfied,True,Unknown,Wire Transfer,False,East,Canada
+990,2020-01-08 22:42:09.729729729,1033,530,2387.123480525355,Direct,High,WH-3,Overnight,Pending,Neutral,False,Not Specified,Credit Card,True,South,Canada
+122,2020-01-08 03:01:37.297297297,1004,529,831.6597502341262,Reseller,Medium,WH-3,Overnight,Backorder,Unsatisfied,False,Wrong Item,Cash,False,North,USA
+873,2020-01-08 01:56:45.405405405,1037,538,4402.493694996312,Direct,High,WH-1,Express,Delivered,Unsatisfied,True,Wrong Item,Wire Transfer,True,South,Canada
+620,2020-01-08 05:11:21.081081081,1060,519,1308.0356621477904,Direct,Low,WH-2,Overnight,Cancelled,Unsatisfied,False,Late,PayPal,True,East,Mexico
+372,2020-01-06 20:45:24.324324324,1039,544,9794.370477040138,Partner,Critical,WH-3,Express,Cancelled,Unsatisfied,True,Not Specified,Credit Card,False,West,Mexico
+354,2020-01-05 06:03:14.594594594,1072,551,8332.479417243216,Online,Low,WH-3,2-Day,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,Mexico
+697,2020-01-09 04:06:29.189189189,1092,525,7170.02081408103,Partner,High,WH-1,Express,Cancelled,Satisfied,False,Unknown,Cash,True,West,USA
+829,2020-01-07 14:16:12.972972973,1093,542,2421.792517002935,Online,Medium,WH-1,Overnight,Delivered,Neutral,True,Wrong Item,Credit Card,True,West,USA
+583,2020-01-08 21:24:19.459459459,1088,531,8025.816350615923,Reseller,Medium,WH-2,Overnight,Cancelled,Neutral,True,Not Specified,Credit Card,True,South,Mexico
+125,2020-01-07 20:58:22.702702702,1067,552,8472.213752312837,Reseller,High,WH-1,2-Day,Pending,Neutral,True,Not Specified,Credit Card,False,East,Mexico
+128,2020-01-05 10:22:42.162162162,1027,547,4765.868295336196,Direct,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,Wire Transfer,True,North,USA
+887,2020-01-07 18:48:38.918918919,1061,538,5096.553818483975,Direct,Medium,WH-3,2-Day,Delivered,Unsatisfied,False,Damaged,Cash,False,West,Canada
+789,2020-01-05 00:00:00.000000000,1017,510,3163.180149238419,Reseller,Low,WH-3,Express,Pending,Neutral,True,Not Specified,Wire Transfer,False,East,USA
+709,2020-01-06 04:32:25.945945946,1021,504,4089.472530408273,Partner,Critical,WH-1,Overnight,Pending,Unsatisfied,True,Damaged,PayPal,True,East,Canada
+70,2020-01-03 04:06:29.189189189,1085,532,1858.5106653244009,Online,Low,WH-1,Regular,Delivered,Satisfied,True,Late,PayPal,False,South,Canada
+618,2020-01-05 14:42:09.729729729,1036,541,5874.577030826247,Direct,High,WH-3,Overnight,Cancelled,Neutral,True,Wrong Item,Credit Card,True,South,Canada
+262,2020-01-04 08:38:55.135135135,1057,530,9843.888461879798,Reseller,High,WH-1,Regular,Pending,Satisfied,False,Wrong Item,Wire Transfer,True,East,USA
+426,2020-01-02 04:58:22.702702702,1027,514,882.451028587705,Direct,Low,WH-3,2-Day,Delivered,Satisfied,True,Damaged,Wire Transfer,True,North,USA
+777,2020-01-08 22:16:12.972972973,1082,516,4351.516838821972,Online,Medium,WH-2,Overnight,Pending,Unsatisfied,False,Damaged,Cash,False,South,USA
+840,2020-01-03 06:29:11.351351351,1042,504,1175.978949340143,Online,Critical,WH-2,2-Day,Cancelled,Neutral,True,Not Specified,Cash,True,East,USA
+48,2020-01-02 16:51:53.513513513,1032,560,2365.982550784165,Partner,Critical,WH-2,2-Day,Backorder,Neutral,False,Late,Credit Card,True,South,USA
+594,2020-01-04 07:47:01.621621621,1035,506,654.3127104898101,Online,Critical,WH-3,Regular,Pending,Neutral,True,Wrong Item,Wire Transfer,False,East,Mexico
+605,2020-01-09 13:24:19.459459459,1014,541,1482.6240911745922,Partner,High,WH-3,Overnight,Backorder,Unsatisfied,False,Not Specified,Credit Card,False,West,Mexico
+379,2020-01-06 22:16:12.972972973,1072,532,9494.184324576288,Direct,Medium,WH-1,2-Day,Delivered,Neutral,False,Unknown,PayPal,True,West,Mexico
+643,2020-01-04 21:50:16.216216216,1024,549,1765.4942792979723,Partner,High,WH-2,Express,Delivered,Unsatisfied,True,Not Specified,Cash,False,East,Mexico
+518,2020-01-09 08:38:55.135135135,1085,550,5096.553818483975,Reseller,Critical,WH-2,2-Day,Cancelled,Neutral,False,Late,Cash,True,West,USA
+976,2020-01-02 07:08:06.486486486,1081,515,9017.459255455597,Direct,Low,WH-3,Overnight,Pending,Unsatisfied,False,Not Specified,Wire Transfer,False,East,Mexico
+884,2020-01-05 01:17:50.270270270,1012,523,4234.8977301931445,Reseller,Critical,WH-3,Overnight,Pending,Unsatisfied,False,Late,Cash,False,North,USA
+472,2020-01-05 15:47:01.621621621,1001,554,2337.635758086584,Direct,High,WH-1,Overnight,Backorder,Neutral,True,Late,Wire Transfer,True,North,Mexico
+969,2020-01-08 19:40:32.432432432,1037,504,2156.8880375592453,Online,Low,WH-1,Overnight,Delivered,Satisfied,True,Late,Credit Card,False,North,USA
+706,2020-01-06 12:19:27.567567567,1036,519,1644.2497299673716,Partner,High,WH-3,2-Day,Cancelled,Satisfied,False,Late,Cash,True,North,Mexico
+630,2020-01-03 10:35:40.540540540,1087,501,9879.693506505686,Online,Critical,WH-1,Overnight,Pending,Unsatisfied,True,Wrong Item,Wire Transfer,False,South,Mexico
+38,2020-01-08 17:04:51.891891891,1085,532,5179.406172156327,Direct,Low,WH-3,2-Day,Delivered,Satisfied,False,Damaged,PayPal,False,West,USA
+135,2020-01-08 13:11:21.081081081,1021,517,2148.212478372709,Direct,Medium,WH-2,2-Day,Pending,Unsatisfied,False,Not Specified,Cash,False,South,Mexico
+774,2020-01-08 20:32:25.945945946,1070,542,2182.9584706149426,Direct,Critical,WH-3,Express,Cancelled,Unsatisfied,False,Damaged,Wire Transfer,True,West,USA
+152,2020-01-03 01:43:47.027027027,1090,501,2727.043200109389,Reseller,Low,WH-3,Overnight,Pending,Neutral,False,Wrong Item,PayPal,True,South,Canada
+507,2020-01-09 11:40:32.432432432,1071,553,8580.458016143602,Direct,Medium,WH-3,Regular,Backorder,Unsatisfied,True,Late,Credit Card,False,South,USA
+107,2020-01-08 18:22:42.162162162,1034,558,6170.651560193233,Partner,High,WH-2,Express,Pending,Neutral,False,Wrong Item,PayPal,True,East,USA
+23,2020-01-07 22:16:12.972972973,1006,532,4855.098529248661,Direct,High,WH-1,Overnight,Backorder,Neutral,False,Not Specified,PayPal,True,South,Canada
+522,2020-01-02 13:50:16.216216216,1084,534,2903.7502387424056,Partner,Critical,WH-3,2-Day,Pending,Satisfied,False,Late,PayPal,False,South,Mexico
+369,2020-01-09 01:43:47.027027027,1078,537,873.059435295697,Direct,Low,WH-2,2-Day,Pending,Satisfied,True,Damaged,PayPal,False,West,USA
+527,2020-01-05 20:06:29.189189189,1063,539,6901.469533565044,Partner,Low,WH-3,2-Day,Cancelled,Satisfied,False,Late,Wire Transfer,True,South,Canada
+413,2020-01-09 14:42:09.729729729,1005,544,2699.014530770332,Partner,Medium,WH-2,Overnight,Backorder,Satisfied,False,Not Specified,PayPal,False,North,Canada
+704,2020-01-07 05:11:21.081081081,1051,513,9379.93419713886,Online,Critical,WH-3,Express,Backorder,Satisfied,False,Wrong Item,Credit Card,False,East,USA
+111,2020-01-05 03:40:32.432432432,1077,546,8361.753996603446,Partner,Medium,WH-2,Express,Cancelled,Neutral,True,Late,Cash,False,North,USA
+968,2020-01-07 14:03:14.594594594,1070,526,5096.553818483975,Partner,Low,WH-1,2-Day,Cancelled,Satisfied,False,Unknown,Credit Card,True,West,USA
+438,2020-01-07 17:56:45.405405405,1012,528,4548.151760546192,Partner,Medium,WH-1,Overnight,Pending,Neutral,False,Wrong Item,PayPal,False,West,Mexico
+876,2020-01-02 15:08:06.486486486,1065,503,728.0479260264442,Direct,Critical,WH-1,Regular,Delivered,Unsatisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+242,2020-01-09 14:55:08.108108108,1024,546,8352.23520481891,Online,High,WH-3,Express,Delivered,Unsatisfied,False,Damaged,Cash,True,South,Mexico
+256,2020-01-08 08:51:53.513513513,1004,533,1481.01758431296,Direct,Low,WH-3,2-Day,Delivered,Unsatisfied,True,Not Specified,PayPal,False,East,Mexico
+943,2020-01-03 07:47:01.621621621,1067,533,2496.0183326673423,Reseller,Low,WH-2,Express,Delivered,Neutral,True,Wrong Item,Cash,True,South,Canada
+844,2020-01-06 20:58:22.702702702,1013,532,5799.799918770696,Direct,High,WH-1,Express,Delivered,Neutral,True,Damaged,Wire Transfer,False,South,Canada
+221,2020-01-06 03:53:30.810810810,1052,546,5548.8216847984,Partner,Medium,WH-2,Overnight,Backorder,Unsatisfied,False,Wrong Item,Cash,True,South,Mexico
+179,2020-01-07 22:03:14.594594594,1078,550,3762.17367068762,Direct,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Wrong Item,PayPal,False,East,Mexico
+933,2020-01-01 09:56:45.405405405,1032,557,6857.580784286234,Partner,Critical,WH-2,Overnight,Pending,Neutral,False,Damaged,PayPal,True,East,USA
+543,2020-01-04 14:16:12.972972973,1049,560,2577.7819446121225,Reseller,Critical,WH-1,Overnight,Cancelled,Neutral,False,Damaged,Credit Card,True,South,USA
+377,2020-01-03 02:09:43.783783783,1007,549,6875.384992316773,Online,High,WH-3,2-Day,Cancelled,Neutral,False,Unknown,Cash,False,North,Canada
+584,2020-01-09 22:16:12.972972973,1087,516,6925.430144790879,Online,Medium,WH-1,2-Day,Delivered,Unsatisfied,True,Damaged,PayPal,False,South,USA
+443,2020-01-06 01:30:48.648648648,1089,501,8264.400466025749,Partner,Critical,WH-3,Overnight,Cancelled,Neutral,True,Not Specified,PayPal,True,North,USA
+286,2020-01-06 18:35:40.540540540,1037,506,5080.254939738498,Online,Low,WH-2,Regular,Backorder,Satisfied,True,Wrong Item,PayPal,True,North,Canada
+815,2020-01-02 06:55:08.108108108,1099,532,2594.632574440118,Partner,Critical,WH-3,Regular,Delivered,Unsatisfied,False,Damaged,Wire Transfer,True,South,Canada
+803,2020-01-02 06:55:08.108108108,1093,534,6086.00440258147,Partner,Medium,WH-2,Express,Delivered,Unsatisfied,False,Late,Cash,False,West,Canada
+478,2020-01-04 03:14:35.675675675,1021,547,2684.940662650785,Direct,Medium,WH-2,Regular,Pending,Satisfied,False,Not Specified,PayPal,False,South,USA
+962,2020-01-01 19:14:35.675675675,1038,509,561.4113990022503,Direct,Low,WH-1,Overnight,Delivered,Unsatisfied,True,Not Specified,Cash,False,North,Mexico
+235,2020-01-05 06:03:14.594594594,1004,522,8299.319664341838,Direct,Critical,WH-3,Overnight,Cancelled,Unsatisfied,False,Late,PayPal,True,North,Mexico
+693,2020-01-02 10:22:42.162162162,1045,547,698.8741193539661,Online,Medium,WH-1,Overnight,Cancelled,Satisfied,True,Wrong Item,Cash,False,East,Mexico
+966,2020-01-02 14:16:12.972972972,1090,552,727.4895200695931,Direct,Medium,WH-1,Regular,Backorder,Neutral,True,Not Specified,Wire Transfer,False,South,Mexico
+940,2020-01-04 08:25:56.756756756,1098,508,4981.528456425172,Reseller,Low,WH-3,Overnight,Delivered,Unsatisfied,False,Late,Cash,False,East,USA
+170,2020-01-07 12:45:24.324324324,1052,546,7302.474745800372,Partner,Low,WH-3,Regular,Delivered,Satisfied,True,Wrong Item,Credit Card,True,South,Canada
+883,2020-01-02 03:01:37.297297297,1068,502,3495.9555610281163,Direct,Medium,WH-1,2-Day,Pending,Unsatisfied,False,Late,PayPal,False,West,Mexico
+842,2020-01-05 16:00:00.000000000,1030,538,5877.175036434299,Reseller,Medium,WH-2,Overnight,Pending,Neutral,False,Late,Wire Transfer,False,West,Mexico
+108,2020-01-08 08:12:58.378378378,1006,523,5096.553818483975,Online,Critical,WH-3,Regular,Backorder,Unsatisfied,False,Not Specified,Cash,True,North,USA
+571,2020-01-01 11:27:34.054054054,1097,547,1159.2438160897425,Online,High,WH-2,Overnight,Backorder,Satisfied,False,Late,Credit Card,True,South,Canada
+901,2020-01-04 03:01:37.297297297,1052,529,5096.553818483975,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Not Specified,Credit Card,False,South,USA
+3,2020-01-08 17:56:45.405405405,1065,543,5096.553818483975,Partner,High,WH-3,Regular,Pending,Unsatisfied,False,Late,Wire Transfer,False,East,Mexico
+585,2020-01-08 22:55:08.108108108,1059,514,6956.515232753864,Reseller,High,WH-1,Regular,Backorder,Satisfied,True,Wrong Item,Wire Transfer,True,South,Canada
+756,2020-01-07 04:45:24.324324324,1049,542,5096.553818483975,Partner,High,WH-2,Express,Cancelled,Satisfied,False,Late,Wire Transfer,True,North,USA
+226,2020-01-06 13:50:16.216216216,1056,511,5096.553818483975,Reseller,Low,WH-1,Regular,Cancelled,Unsatisfied,True,Wrong Item,Cash,False,East,Mexico
+476,2020-01-01 07:47:01.621621621,1040,543,9009.054470532858,Online,Critical,WH-1,Overnight,Cancelled,Satisfied,False,Damaged,Cash,True,North,USA
+754,2020-01-02 17:17:50.270270270,1044,556,3315.0951180481006,Online,High,WH-2,Regular,Backorder,Satisfied,True,Not Specified,Wire Transfer,True,West,USA
+622,2020-01-06 17:43:47.027027027,1002,511,4109.801250171249,Online,Medium,WH-2,Overnight,Pending,Unsatisfied,True,Not Specified,Wire Transfer,False,West,USA
+95,2020-01-07 22:42:09.729729729,1081,552,5096.553818483975,Direct,Medium,WH-3,2-Day,Backorder,Neutral,True,Damaged,PayPal,False,North,Mexico
+949,2020-01-03 23:08:06.486486486,1098,534,5096.553818483975,Direct,Critical,WH-3,Express,Cancelled,Unsatisfied,False,Damaged,Cash,True,East,Canada
+793,2020-01-03 09:04:51.891891891,1086,536,4119.042527723012,Online,Medium,WH-2,2-Day,Cancelled,Satisfied,True,Not Specified,Credit Card,False,West,Mexico
+878,2020-01-01 19:27:34.054054054,1079,544,2182.281426274253,Direct,Medium,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Credit Card,True,West,USA
+973,2020-01-09 07:21:04.864864864,1028,535,5096.553818483975,Direct,Medium,WH-3,Regular,Backorder,Satisfied,False,Late,Wire Transfer,False,East,Canada
+836,2020-01-01 15:47:01.621621621,1042,524,8471.892776672148,Online,Medium,WH-1,Overnight,Cancelled,Neutral,False,Unknown,Cash,False,South,Canada
+579,2020-01-01 00:51:53.513513513,1008,504,3286.8575036895936,Direct,High,WH-3,Express,Cancelled,Unsatisfied,True,Wrong Item,PayPal,False,South,Mexico
+648,2020-01-09 18:22:42.162162162,1087,511,7155.80921574729,Reseller,Medium,WH-1,2-Day,Backorder,Neutral,False,Late,Credit Card,True,East,USA
+60,2020-01-08 08:51:53.513513513,1065,534,5923.335459975025,Partner,High,WH-2,Express,Delivered,Satisfied,False,Damaged,PayPal,False,South,USA
+371,2020-01-03 06:42:09.729729729,1051,528,560.6009123626114,Direct,High,WH-3,Regular,Delivered,Unsatisfied,True,Not Specified,Credit Card,False,South,USA
+564,2020-01-06 03:01:37.297297297,1055,510,6806.332511100889,Online,High,WH-1,Regular,Delivered,Satisfied,False,Unknown,PayPal,False,North,Canada
+193,2020-01-05 03:27:34.054054054,1064,525,5096.553818483975,Direct,High,WH-2,Overnight,Delivered,Satisfied,True,Damaged,Wire Transfer,False,South,Mexico
+956,2020-01-07 00:12:58.378378378,1005,502,1765.2301938414723,Reseller,High,WH-3,Regular,Backorder,Neutral,False,Wrong Item,Cash,True,East,Mexico
+650,2020-01-01 14:42:09.729729729,1081,508,8792.164504873814,Reseller,Critical,WH-2,Overnight,Backorder,Neutral,False,Wrong Item,Wire Transfer,False,East,Mexico
+674,2020-01-08 05:11:21.081081081,1034,515,8290.641269528669,Online,Medium,WH-1,2-Day,Cancelled,Satisfied,True,Wrong Item,Credit Card,True,South,Mexico
+791,2020-01-09 05:37:17.837837837,1026,518,4678.628577281432,Partner,Medium,WH-1,2-Day,Cancelled,Neutral,False,Late,Wire Transfer,False,West,Mexico
+729,2020-01-06 10:35:40.540540540,1081,526,6663.271168514167,Partner,Medium,WH-2,Express,Backorder,Unsatisfied,False,Not Specified,Cash,True,East,USA
+750,2020-01-04 12:58:22.702702702,1094,507,1253.1627039963216,Reseller,High,WH-2,Express,Pending,Unsatisfied,False,Not Specified,Credit Card,True,North,USA
+67,2020-01-06 09:43:47.027027027,1047,522,9307.67592771227,Online,High,WH-2,Overnight,Delivered,Satisfied,False,Not Specified,PayPal,False,North,USA
+679,2020-01-06 22:16:12.972972973,1087,548,3423.8236002849167,Partner,Low,WH-3,Express,Backorder,Satisfied,True,Damaged,Wire Transfer,True,South,Mexico
+690,2020-01-05 11:14:35.675675675,1053,543,5786.414054813809,Partner,Critical,WH-1,Express,Pending,Neutral,False,Wrong Item,PayPal,False,East,Canada
+742,2020-01-01 16:00:00.000000000,1043,549,1056.3704002030718,Partner,Critical,WH-2,Express,Backorder,Satisfied,False,Damaged,PayPal,True,North,Canada
+863,2020-01-06 21:50:16.216216216,1065,549,9900.300667151065,Online,Critical,WH-3,Regular,Delivered,Satisfied,True,Unknown,Cash,True,East,Mexico
+855,2020-01-04 19:01:37.297297297,1057,508,3317.8185804923846,Reseller,Low,WH-2,2-Day,Backorder,Unsatisfied,True,Damaged,Credit Card,False,South,USA
+433,2020-01-09 14:16:12.972972973,1072,506,5096.553818483975,Partner,Low,WH-1,2-Day,Backorder,Satisfied,False,Damaged,PayPal,True,South,Canada
+141,2020-01-01 13:24:19.459459459,1022,547,5096.553818483975,Online,Critical,WH-1,Overnight,Cancelled,Unsatisfied,False,Late,PayPal,True,East,Mexico
+859,2020-01-04 06:42:09.729729729,1030,541,1671.195903339995,Online,High,WH-2,2-Day,Cancelled,Unsatisfied,False,Unknown,PayPal,True,South,USA
+147,2020-01-04 18:22:42.162162162,1090,519,1128.5692939271844,Online,Low,WH-3,Regular,Backorder,Unsatisfied,True,Damaged,Credit Card,True,North,Canada
+860,2020-01-08 11:53:30.810810810,1025,539,5426.336042324472,Reseller,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Damaged,Cash,False,East,USA
+303,2020-01-03 05:11:21.081081081,1084,507,2031.5787137636644,Partner,Critical,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,False,West,Canada
+119,2020-01-04 00:51:53.513513513,1016,539,5343.613090729348,Reseller,Low,WH-2,2-Day,Backorder,Satisfied,False,Late,PayPal,False,North,Mexico
+490,2020-01-09 08:25:56.756756756,1025,506,3071.117448826774,Reseller,Critical,WH-2,Regular,Backorder,Neutral,False,Unknown,Cash,False,East,USA
+97,2020-01-05 06:55:08.108108108,1029,507,3268.8786781910417,Direct,High,WH-1,Express,Cancelled,Neutral,True,Wrong Item,Credit Card,True,South,Canada
+216,2020-01-01 18:22:42.162162162,1040,508,3750.022398204144,Reseller,Critical,WH-1,Regular,Pending,Unsatisfied,True,Late,Cash,False,North,Mexico
+872,2020-01-04 17:30:48.648648648,1062,508,6597.285409613636,Direct,Critical,WH-3,Regular,Pending,Satisfied,False,Damaged,Credit Card,True,East,USA
+858,2020-01-05 11:01:37.297297297,1010,506,1705.9719306722404,Partner,Critical,WH-2,Regular,Delivered,Unsatisfied,True,Unknown,PayPal,False,East,Canada
+662,2020-01-05 22:55:08.108108108,1029,502,9653.059501006112,Online,Critical,WH-3,Overnight,Pending,Unsatisfied,False,Not Specified,PayPal,True,South,USA
+347,2020-01-05 22:55:08.108108108,1062,532,6483.296217129723,Reseller,Medium,WH-2,Express,Cancelled,Satisfied,True,Damaged,Wire Transfer,False,South,USA
+479,2020-01-05 11:14:35.675675675,1047,537,5096.553818483975,Online,Critical,WH-1,Express,Delivered,Neutral,False,Damaged,Credit Card,False,South,USA
+352,2020-01-09 21:24:19.459459459,1018,528,4570.350086563557,Online,Medium,WH-1,Regular,Backorder,Neutral,True,Not Specified,Credit Card,True,North,Canada
+28,2020-01-04 11:14:35.675675675,1005,531,8690.928249752793,Reseller,High,WH-1,Regular,Backorder,Neutral,True,Damaged,Credit Card,True,West,USA
+214,2020-01-07 06:55:08.108108108,1034,513,2310.7934142072727,Partner,Critical,WH-1,2-Day,Backorder,Neutral,False,Damaged,Credit Card,True,North,USA
+752,2020-01-05 02:35:40.540540540,1012,501,9126.176181505793,Partner,Critical,WH-2,Express,Pending,Unsatisfied,False,Damaged,Credit Card,False,North,USA
+173,2020-01-09 15:34:03.243243243,1056,529,5096.553818483975,Partner,Low,WH-2,Overnight,Cancelled,Satisfied,True,Not Specified,Wire Transfer,True,North,Canada
+258,2020-01-07 03:40:32.432432432,1006,533,5096.553818483975,Online,Low,WH-2,Express,Cancelled,Unsatisfied,False,Wrong Item,Credit Card,False,East,Canada
+199,2020-01-06 01:43:47.027027027,1017,520,9091.417862441644,Reseller,Critical,WH-3,2-Day,Delivered,Satisfied,True,Damaged,Wire Transfer,True,South,Canada
+325,2020-01-02 16:12:58.378378378,1076,545,4425.138913473335,Direct,Medium,WH-2,Overnight,Backorder,Satisfied,True,Damaged,Wire Transfer,False,South,USA
+164,2020-01-06 03:53:30.810810810,1081,515,8906.12361811204,Partner,Critical,WH-3,Express,Delivered,Unsatisfied,False,Late,PayPal,False,North,Canada
+935,2020-01-03 17:43:47.027027027,1013,521,4474.700567094169,Online,Critical,WH-2,Regular,Cancelled,Satisfied,True,Late,Wire Transfer,False,North,Canada
+657,2020-01-09 04:58:22.702702702,1073,503,4708.820210207385,Online,Medium,WH-1,Express,Cancelled,Unsatisfied,True,Wrong Item,PayPal,True,East,Mexico
+464,2020-01-05 14:29:11.351351351,1001,501,5096.553818483975,Online,Critical,WH-2,Express,Cancelled,Neutral,True,Damaged,Credit Card,False,East,Mexico
+442,2020-01-04 06:42:09.729729729,1082,505,2647.7511746003456,Partner,Medium,WH-2,Express,Cancelled,Unsatisfied,True,Unknown,Credit Card,True,North,Mexico
+524,2020-01-05 06:55:08.108108108,1020,550,1477.004625496029,Online,Medium,WH-2,Overnight,Cancelled,Unsatisfied,False,Wrong Item,Credit Card,True,South,Mexico
+994,2020-01-09 06:55:08.108108108,1080,514,6085.920479906411,Reseller,Medium,WH-1,Regular,Delivered,Neutral,False,Not Specified,Credit Card,False,East,Canada
+205,2020-01-03 01:43:47.027027027,1013,560,6803.474142177796,Reseller,Medium,WH-3,Overnight,Pending,Neutral,True,Wrong Item,Wire Transfer,False,West,USA
+971,2020-01-07 15:47:01.621621621,1048,555,1368.5089222628126,Direct,High,WH-1,Express,Pending,Neutral,True,Damaged,Cash,False,West,Mexico
+137,2020-01-04 02:09:43.783783783,1082,556,8113.734874118059,Reseller,Medium,WH-3,Express,Backorder,Satisfied,False,Unknown,Credit Card,False,West,Mexico
+232,2020-01-06 18:09:43.783783783,1021,541,7463.50101861492,Online,High,WH-3,Overnight,Backorder,Neutral,False,Damaged,Cash,True,North,Canada
+6,2020-01-01 15:21:04.864864864,1049,553,5103.110953260103,Direct,Medium,WH-1,Express,Delivered,Satisfied,True,Wrong Item,Wire Transfer,True,West,USA
+116,2020-01-07 12:32:25.945945946,1080,535,5350.517195865819,Direct,Critical,WH-2,Regular,Cancelled,Satisfied,False,Not Specified,Cash,True,East,Canada
+295,2020-01-06 17:43:47.027027027,1005,512,9359.271344983465,Online,High,WH-3,Express,Delivered,Neutral,False,Late,PayPal,False,West,Canada
+995,2020-01-05 01:04:51.891891891,1040,506,4551.747598797681,Direct,High,WH-1,Regular,Pending,Unsatisfied,False,Damaged,Credit Card,True,East,Canada
+376,2020-01-01 01:43:47.027027027,1067,550,3785.157934899037,Partner,Low,WH-3,Overnight,Cancelled,Neutral,False,Unknown,PayPal,True,West,Mexico
+441,2020-01-03 01:30:48.648648648,1062,537,2631.0263091084994,Direct,Low,WH-2,Regular,Backorder,Satisfied,True,Damaged,Cash,False,North,Canada
+470,2020-01-01 09:43:47.027027027,1087,501,4223.150347967136,Partner,Low,WH-2,Express,Backorder,Satisfied,False,Wrong Item,Cash,True,East,Mexico
+13,2020-01-03 23:21:04.864864864,1059,505,1868.748467125396,Online,Critical,WH-2,2-Day,Cancelled,Neutral,True,Not Specified,Credit Card,True,East,Mexico
+494,2020-01-03 21:37:17.837837837,1002,550,9889.99944265307,Partner,High,WH-3,Express,Cancelled,Satisfied,True,Late,Credit Card,True,South,USA
+326,2020-01-03 22:16:12.972972973,1099,551,6920.317788488699,Reseller,High,WH-1,Express,Delivered,Neutral,False,Late,Credit Card,False,South,USA
+469,2020-01-05 06:55:08.108108108,1054,512,5096.553818483975,Partner,Low,WH-2,Overnight,Backorder,Unsatisfied,False,Unknown,Cash,True,East,Mexico
+552,2020-01-08 04:45:24.324324324,1078,532,9324.165723532871,Direct,Critical,WH-2,Regular,Backorder,Unsatisfied,False,Wrong Item,PayPal,False,South,Canada
+708,2020-01-08 12:19:27.567567567,1029,514,9708.5572166997,Direct,Critical,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Wire Transfer,False,East,Canada
+415,2020-01-09 23:08:06.486486486,1047,514,9301.406080583756,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Not Specified,Wire Transfer,False,West,Mexico
+568,2020-01-07 03:14:35.675675675,1074,517,5980.37141245648,Direct,High,WH-1,Overnight,Cancelled,Neutral,False,Damaged,Credit Card,True,South,Mexico
+576,2020-01-01 11:14:35.675675675,1050,508,4362.610104914987,Online,Critical,WH-1,Regular,Cancelled,Satisfied,True,Wrong Item,PayPal,False,South,Canada
+207,2020-01-06 21:24:19.459459459,1025,554,4322.859463343461,Reseller,High,WH-1,2-Day,Cancelled,Unsatisfied,False,Not Specified,Credit Card,True,North,Canada
+596,2020-01-01 22:42:09.729729729,1088,533,3573.5389186121697,Online,High,WH-3,Regular,Cancelled,Unsatisfied,False,Damaged,Wire Transfer,True,North,Mexico
+171,2020-01-09 21:11:21.081081081,1079,525,7209.33854427499,Partner,Medium,WH-2,Overnight,Cancelled,Neutral,True,Not Specified,Credit Card,False,West,USA
+944,2020-01-06 21:37:17.837837837,1092,553,5096.553818483975,Partner,Medium,WH-2,Regular,Delivered,Unsatisfied,False,Not Specified,PayPal,False,North,Canada
+772,2020-01-02 22:42:09.729729729,1087,558,8813.769376900946,Reseller,Low,WH-1,Overnight,Cancelled,Unsatisfied,True,Wrong Item,PayPal,False,East,USA
+11,2020-01-05 04:45:24.324324324,1089,560,6016.641303265707,Partner,Low,WH-3,Express,Delivered,Neutral,False,Damaged,Wire Transfer,True,North,USA
+465,2020-01-01 03:27:34.054054054,1046,505,3930.2099002398536,Online,Critical,WH-2,Express,Backorder,Unsatisfied,False,Damaged,PayPal,False,West,Mexico
+563,2020-01-03 19:40:32.432432432,1029,543,3311.354279647853,Online,High,WH-3,Overnight,Pending,Satisfied,False,Damaged,PayPal,True,East,Canada
+652,2020-01-01 20:06:29.189189189,1014,514,7437.3673005309265,Reseller,Low,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Cash,False,North,Mexico
+206,2020-01-07 17:43:47.027027027,1084,522,4406.376144384185,Direct,High,WH-1,Regular,Delivered,Satisfied,False,Damaged,Cash,True,West,Mexico
+699,2020-01-07 01:43:47.027027027,1046,511,6918.797570967194,Partner,Medium,WH-3,Overnight,Pending,Satisfied,False,Damaged,PayPal,False,North,USA
+19,2020-01-06 23:21:04.864864864,1099,531,3411.402946406793,Reseller,High,WH-1,Regular,Pending,Neutral,False,Late,Credit Card,False,North,Canada
+530,2020-01-09 06:55:08.108108108,1071,547,6926.595620445742,Direct,High,WH-2,Express,Pending,Unsatisfied,False,Wrong Item,PayPal,True,North,Mexico
+350,2020-01-06 18:22:42.162162162,1042,559,5547.293174333853,Reseller,Low,WH-1,Overnight,Cancelled,Satisfied,False,Not Specified,Cash,False,East,Canada
+905,2020-01-05 13:37:17.837837837,1020,555,2218.473063099534,Online,Critical,WH-1,Regular,Pending,Neutral,True,Unknown,PayPal,False,North,Mexico
+639,2020-01-09 16:00:00.000000000,1053,525,4325.685349448322,Direct,Medium,WH-3,2-Day,Pending,Unsatisfied,False,Unknown,Cash,False,North,Canada
+396,2020-01-08 16:00:00.000000000,1086,554,2022.1432092768096,Reseller,Medium,WH-3,Regular,Backorder,Neutral,False,Wrong Item,PayPal,True,East,USA
+463,2020-01-01 10:22:42.162162162,1023,541,1917.8699625440024,Partner,Medium,WH-1,2-Day,Cancelled,Neutral,False,Late,PayPal,True,West,USA
+617,2020-01-06 16:51:53.513513513,1019,513,9597.500639589583,Partner,Critical,WH-1,Express,Backorder,Satisfied,True,Damaged,Wire Transfer,True,North,Canada
+366,2020-01-06 03:27:34.054054054,1017,558,3430.448674150098,Partner,High,WH-1,Express,Backorder,Satisfied,True,Late,Wire Transfer,False,West,Canada
+948,2020-01-01 02:22:42.162162162,1025,552,5856.982750026322,Online,Medium,WH-2,2-Day,Pending,Neutral,False,Unknown,Cash,True,East,USA
+41,2020-01-01 12:32:25.945945945,1001,527,3933.3359011382704,Reseller,High,WH-1,2-Day,Delivered,Unsatisfied,True,Not Specified,Wire Transfer,True,North,Canada
+49,2020-01-09 14:55:08.108108108,1034,524,9538.725843799371,Online,Critical,WH-3,Overnight,Cancelled,Unsatisfied,True,Damaged,Cash,True,North,USA
+965,2020-01-03 20:06:29.189189189,1048,503,5096.553818483975,Direct,Critical,WH-3,2-Day,Pending,Neutral,True,Wrong Item,Cash,False,North,Mexico
+220,2020-01-06 00:12:58.378378378,1006,518,7481.795550251495,Online,Medium,WH-3,Overnight,Delivered,Satisfied,True,Damaged,PayPal,True,South,USA
+957,2020-01-04 08:25:56.756756756,1011,541,5096.553818483975,Partner,Medium,WH-2,Overnight,Backorder,Satisfied,True,Unknown,Cash,True,South,Mexico
+713,2020-01-01 09:04:51.891891891,1036,546,2038.2685630060305,Partner,Medium,WH-1,Overnight,Delivered,Satisfied,False,Late,Credit Card,False,East,Canada
+17,2020-01-01 21:24:19.459459459,1033,557,1281.587080632088,Online,Low,WH-1,2-Day,Cancelled,Neutral,True,Unknown,Cash,True,South,Mexico
+160,2020-01-01 06:55:08.108108108,1094,525,6945.74969878006,Reseller,Critical,WH-2,Regular,Delivered,Neutral,False,Late,PayPal,True,North,Mexico
+925,2020-01-07 20:58:22.702702702,1061,540,1763.5930896196237,Direct,Critical,WH-3,Express,Pending,Satisfied,False,Damaged,Cash,True,East,USA
+109,2020-01-03 10:22:42.162162162,1053,526,7809.764493779448,Direct,High,WH-3,Overnight,Backorder,Neutral,False,Damaged,Cash,False,West,Canada
+31,2020-01-03 11:40:32.432432432,1023,502,5096.553818483975,Online,Critical,WH-3,Regular,Delivered,Satisfied,False,Not Specified,Credit Card,False,South,USA
+229,2020-01-08 04:19:27.567567567,1033,533,5693.608979685237,Partner,Low,WH-3,2-Day,Backorder,Neutral,False,Wrong Item,Credit Card,False,South,USA
+241,2020-01-03 12:58:22.702702702,1095,557,5096.553818483975,Reseller,High,WH-2,Overnight,Backorder,Satisfied,False,Damaged,PayPal,True,North,Canada
+391,2020-01-06 14:55:08.108108108,1097,539,5096.553818483975,Partner,Critical,WH-2,Express,Delivered,Neutral,True,Wrong Item,Cash,False,South,USA
+710,2020-01-04 17:56:45.405405405,1011,548,5096.553818483975,Online,High,WH-1,Overnight,Cancelled,Satisfied,True,Late,Cash,False,West,Mexico
+716,2020-01-04 13:37:17.837837837,1099,547,4791.525021823716,Partner,Medium,WH-2,Express,Delivered,Satisfied,True,Damaged,PayPal,False,South,Mexico
+893,2020-01-05 02:22:42.162162162,1046,552,1190.9820038973498,Reseller,High,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Credit Card,True,East,USA
+504,2020-01-08 03:01:37.297297297,1054,535,4561.121313857546,Online,Low,WH-3,Express,Pending,Neutral,False,Damaged,PayPal,True,East,Canada
+575,2020-01-03 08:51:53.513513513,1032,527,9214.046632487967,Reseller,Medium,WH-1,Regular,Cancelled,Unsatisfied,True,Damaged,PayPal,True,West,USA
+797,2020-01-07 14:42:09.729729729,1007,550,4140.545976498891,Online,Critical,WH-3,Regular,Backorder,Unsatisfied,False,Not Specified,PayPal,False,South,Mexico
+698,2020-01-07 04:58:22.702702702,1062,536,3647.846077995012,Direct,Medium,WH-1,Regular,Delivered,Neutral,True,Late,Wire Transfer,True,East,USA
+665,2020-01-03 06:42:09.729729729,1037,553,5096.553818483975,Direct,Low,WH-2,2-Day,Delivered,Unsatisfied,False,Late,Credit Card,True,East,Canada
+581,2020-01-02 18:09:43.783783783,1057,501,7129.411462299116,Partner,Critical,WH-3,Regular,Pending,Satisfied,True,Damaged,Cash,True,West,USA
+215,2020-01-03 04:19:27.567567567,1008,517,2254.008344800008,Online,Low,WH-1,2-Day,Pending,Unsatisfied,False,Wrong Item,PayPal,True,East,Canada
+146,2020-01-07 01:43:47.027027027,1012,506,4179.563920765483,Direct,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,West,USA
+401,2020-01-05 06:03:14.594594594,1097,540,1299.212791464137,Direct,Medium,WH-1,2-Day,Cancelled,Satisfied,True,Unknown,Credit Card,True,North,USA
+337,2020-01-05 14:16:12.972972973,1014,555,5791.884876112834,Partner,Critical,WH-3,2-Day,Backorder,Unsatisfied,True,Wrong Item,Credit Card,False,East,USA
+719,2020-01-03 17:04:51.891891891,1055,508,1593.8886947544108,Partner,Low,WH-2,Express,Backorder,Satisfied,False,Wrong Item,Credit Card,False,South,Mexico
+613,2020-01-04 12:45:24.324324324,1033,519,2917.572650373472,Partner,Low,WH-1,Overnight,Backorder,Unsatisfied,True,Wrong Item,Cash,True,North,Canada
+912,2020-01-02 04:45:24.324324324,1090,512,8139.572867346899,Direct,High,WH-2,Regular,Backorder,Unsatisfied,False,Wrong Item,PayPal,True,South,Canada
+775,2020-01-08 04:19:27.567567567,1072,508,7359.62760993596,Direct,High,WH-1,2-Day,Backorder,Satisfied,False,Not Specified,Credit Card,False,South,USA
+694,2020-01-05 06:29:11.351351351,1017,553,3499.844936870212,Direct,Critical,WH-3,Overnight,Backorder,Neutral,False,Not Specified,Wire Transfer,True,West,Canada
+841,2020-01-03 01:30:48.648648648,1034,526,5951.725571932415,Online,Medium,WH-2,Regular,Delivered,Unsatisfied,True,Late,Credit Card,True,East,Mexico
+676,2020-01-03 00:00:00.000000000,1037,536,5232.2344637064025,Reseller,Medium,WH-3,Regular,Backorder,Unsatisfied,True,Unknown,PayPal,True,North,Mexico
+452,2020-01-03 13:11:21.081081081,1072,511,987.291565321548,Reseller,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,East,Mexico
+557,2020-01-06 23:34:03.243243243,1038,547,2956.620115780448,Reseller,High,WH-3,2-Day,Backorder,Unsatisfied,True,Not Specified,Cash,True,West,Mexico
+953,2020-01-04 05:11:21.081081081,1079,523,7482.739268803322,Reseller,Low,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,Wire Transfer,True,West,Canada
+941,2020-01-06 02:09:43.783783783,1011,539,5096.553818483975,Reseller,Low,WH-3,Express,Delivered,Unsatisfied,True,Damaged,PayPal,False,West,Mexico
+663,2020-01-06 12:06:29.189189189,1098,506,1526.4233140758677,Partner,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,Credit Card,True,East,Mexico
+104,2020-01-09 14:55:08.108108108,1084,532,1967.6759380467952,Partner,Medium,WH-2,Express,Backorder,Satisfied,True,Not Specified,Cash,True,East,USA
+921,2020-01-01 17:04:51.891891891,1049,545,9966.999933586882,Direct,High,WH-3,Regular,Delivered,Unsatisfied,True,Not Specified,Cash,False,West,Canada
+542,2020-01-05 14:29:11.351351351,1029,542,7597.243537725774,Reseller,High,WH-1,Regular,Delivered,Unsatisfied,True,Wrong Item,Cash,True,East,Canada
+950,2020-01-07 14:55:08.108108108,1076,514,7102.054633758953,Online,High,WH-1,Overnight,Delivered,Satisfied,True,Unknown,Credit Card,True,North,Mexico
+678,2020-01-07 20:32:25.945945946,1076,543,2896.9633071620274,Direct,Medium,WH-3,2-Day,Delivered,Unsatisfied,True,Damaged,PayPal,True,East,USA
+368,2020-01-01 00:12:58.378378378,1066,520,3589.506364624008,Reseller,Medium,WH-1,Overnight,Delivered,Satisfied,False,Late,Wire Transfer,False,East,USA
+672,2020-01-08 12:45:24.324324324,1041,548,2720.5375243490703,Online,Critical,WH-1,Express,Delivered,Satisfied,False,Not Specified,PayPal,True,South,Canada
+145,2020-01-04 12:32:25.945945945,1005,520,9326.874813511027,Reseller,Critical,WH-2,Regular,Backorder,Satisfied,True,Late,Wire Transfer,True,East,Canada
+598,2020-01-06 22:16:12.972972973,1032,525,5096.553818483975,Partner,Medium,WH-3,Overnight,Delivered,Neutral,True,Wrong Item,Credit Card,False,West,Canada
+439,2020-01-07 00:38:55.135135135,1090,502,8407.453626779452,Online,High,WH-1,Overnight,Backorder,Neutral,True,Unknown,Cash,False,West,USA
+535,2020-01-09 03:01:37.297297297,1087,538,4576.092508375326,Direct,Medium,WH-3,2-Day,Backorder,Satisfied,True,Late,Cash,False,East,Canada
+110,2020-01-05 02:22:42.162162162,1066,534,4279.724178665558,Reseller,Medium,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Cash,False,East,Mexico
+113,2020-01-03 06:16:12.972972972,1075,529,789.4050199351211,Partner,High,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Wire Transfer,True,North,Mexico
+958,2020-01-01 01:30:48.648648648,1059,521,4481.44499271231,Partner,Critical,WH-2,Regular,Backorder,Unsatisfied,False,Not Specified,Cash,False,East,USA
+423,2020-01-05 12:45:24.324324324,1036,554,607.3740975957135,Online,High,WH-3,Regular,Pending,Satisfied,False,Wrong Item,PayPal,False,East,Mexico
+309,2020-01-04 14:29:11.351351351,1075,558,4467.83646026145,Direct,Low,WH-1,Express,Cancelled,Satisfied,True,Unknown,Cash,True,North,Canada
+984,2020-01-09 04:19:27.567567567,1056,549,4581.896951873905,Reseller,Medium,WH-3,Regular,Cancelled,Unsatisfied,True,Wrong Item,Wire Transfer,False,North,Mexico
+155,2020-01-02 04:58:22.702702702,1073,538,9634.177083454066,Direct,Low,WH-2,Overnight,Delivered,Neutral,False,Not Specified,Wire Transfer,True,South,Mexico
+746,2020-01-07 13:24:19.459459459,1035,536,5981.325317967978,Reseller,Medium,WH-3,2-Day,Delivered,Satisfied,False,Late,Wire Transfer,True,South,Mexico
+455,2020-01-05 07:47:01.621621621,1009,554,3676.811200393112,Direct,Low,WH-3,Regular,Pending,Unsatisfied,True,Wrong Item,Wire Transfer,False,East,Mexico
+37,2020-01-07 17:30:48.648648648,1017,502,7545.5937924424015,Direct,Low,WH-1,Overnight,Pending,Neutral,True,Wrong Item,PayPal,False,South,USA
+495,2020-01-02 03:27:34.054054054,1007,514,9784.159359381249,Direct,Low,WH-1,Express,Backorder,Neutral,True,Not Specified,Cash,False,South,USA
+851,2020-01-02 17:43:47.027027027,1029,533,5096.553818483975,Direct,Low,WH-3,2-Day,Delivered,Neutral,False,Damaged,Cash,True,South,USA
+500,2020-01-06 03:01:37.297297297,1017,526,3249.675455385136,Online,High,WH-2,Regular,Pending,Satisfied,True,Damaged,Wire Transfer,False,West,Canada
+768,2020-01-04 07:34:03.243243243,1008,509,7942.9608204680435,Reseller,Low,WH-1,2-Day,Pending,Unsatisfied,False,Late,Wire Transfer,True,South,Canada
+510,2020-01-09 15:47:01.621621621,1088,533,7046.3327106081815,Direct,High,WH-1,2-Day,Backorder,Satisfied,True,Damaged,Cash,False,West,Mexico
+857,2020-01-06 19:53:30.810810810,1056,559,2113.927195581044,Online,Medium,WH-1,Overnight,Pending,Satisfied,False,Unknown,Credit Card,True,North,USA
+660,2020-01-04 21:11:21.081081081,1026,508,2364.3343087085736,Online,Medium,WH-1,Overnight,Cancelled,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+675,2020-01-02 14:42:09.729729729,1017,544,895.0001185426408,Online,Critical,WH-1,2-Day,Pending,Neutral,True,Not Specified,Cash,True,South,Canada
+477,2020-01-03 12:19:27.567567567,1015,537,3324.2284406726017,Reseller,Low,WH-3,2-Day,Backorder,Neutral,False,Late,Wire Transfer,False,East,Canada
+359,2020-01-03 16:12:58.378378378,1038,533,5096.553818483975,Partner,Critical,WH-2,2-Day,Cancelled,Neutral,False,Wrong Item,Wire Transfer,False,West,Canada
+482,2020-01-06 11:01:37.297297297,1009,549,8347.614503208712,Direct,Low,WH-1,2-Day,Backorder,Satisfied,True,Unknown,PayPal,True,West,Canada
+370,2020-01-03 17:30:48.648648648,1053,504,3083.9867507713825,Partner,Critical,WH-3,2-Day,Backorder,Satisfied,False,Unknown,Credit Card,True,South,USA
+880,2020-01-08 17:17:50.270270270,1015,503,9588.844121948823,Direct,Critical,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,False,West,USA
+828,2020-01-02 22:16:12.972972972,1004,503,2252.360985068892,Online,Critical,WH-1,Overnight,Pending,Satisfied,True,Wrong Item,PayPal,True,East,USA
+889,2020-01-06 17:43:47.027027027,1070,535,5096.553818483975,Reseller,Critical,WH-1,Regular,Backorder,Unsatisfied,False,Not Specified,Cash,True,North,Mexico
+432,2020-01-05 03:14:35.675675675,1006,539,7239.669214022761,Direct,Critical,WH-2,Regular,Delivered,Satisfied,False,Late,Cash,True,North,Canada
+290,2020-01-09 23:21:04.864864864,1003,539,8179.854519490064,Online,Critical,WH-1,2-Day,Pending,Satisfied,True,Wrong Item,Wire Transfer,True,South,Canada
+792,2020-01-01 16:12:58.378378378,1085,519,5096.553818483975,Partner,Medium,WH-1,Overnight,Cancelled,Satisfied,True,Unknown,Credit Card,False,North,USA
+760,2020-01-09 23:47:01.621621621,1057,555,9425.901595739077,Online,Low,WH-3,2-Day,Cancelled,Satisfied,True,Damaged,Cash,False,South,Canada
+174,2020-01-07 15:34:03.243243243,1086,553,3462.8546397553896,Direct,Critical,WH-1,Regular,Backorder,Satisfied,False,Not Specified,Credit Card,False,North,Mexico
+621,2020-01-01 20:32:25.945945945,1082,545,5714.291614654698,Online,Low,WH-3,Express,Backorder,Neutral,False,Not Specified,Cash,True,West,Mexico
+514,2020-01-04 11:14:35.675675675,1063,512,653.9037747249386,Partner,High,WH-2,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,False,East,Canada
+72,2020-01-04 02:35:40.540540540,1066,550,8078.456501808033,Direct,Medium,WH-1,2-Day,Cancelled,Unsatisfied,False,Late,PayPal,True,East,Mexico
+132,2020-01-08 07:34:03.243243243,1061,511,1560.133499593851,Reseller,Medium,WH-3,2-Day,Backorder,Neutral,True,Late,PayPal,False,East,USA
+283,2020-01-07 06:55:08.108108108,1014,511,2486.064050215037,Online,High,WH-1,Express,Backorder,Neutral,True,Wrong Item,Cash,False,East,Canada
+560,2020-01-02 16:51:53.513513513,1004,555,4550.784389615414,Direct,High,WH-3,Regular,Cancelled,Unsatisfied,True,Damaged,Cash,False,East,USA
+389,2020-01-06 15:34:03.243243243,1038,536,9416.03294299474,Partner,Medium,WH-2,Overnight,Delivered,Unsatisfied,True,Wrong Item,Cash,False,West,Mexico
+398,2020-01-03 00:51:53.513513513,1010,503,4472.375487546597,Online,Low,WH-2,2-Day,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,USA
+567,2020-01-07 05:24:19.459459459,1010,518,5096.553818483975,Partner,High,WH-2,Regular,Delivered,Satisfied,False,Damaged,Credit Card,True,South,Mexico
+64,2020-01-02 11:53:30.810810810,1094,530,2236.9589087537624,Online,High,WH-3,Overnight,Backorder,Satisfied,False,Unknown,Cash,False,South,Canada
+181,2020-01-02 22:55:08.108108108,1002,507,9387.10287851121,Direct,High,WH-3,Express,Delivered,Satisfied,False,Unknown,Wire Transfer,True,East,USA
+499,2020-01-06 02:09:43.783783783,1091,520,8727.96468108943,Direct,Medium,WH-2,Express,Delivered,Unsatisfied,False,Late,PayPal,True,North,Mexico
+988,2020-01-04 12:06:29.189189189,1091,545,2217.458930342605,Direct,Critical,WH-3,2-Day,Delivered,Unsatisfied,True,Late,Cash,False,East,Canada
+963,2020-01-06 19:53:30.810810810,1072,501,5214.272608057732,Partner,High,WH-2,Regular,Cancelled,Unsatisfied,False,Late,Cash,False,East,Mexico
+365,2020-01-06 14:42:09.729729729,1025,531,5383.906704236967,Direct,Medium,WH-2,Regular,Pending,Unsatisfied,True,Wrong Item,Cash,False,West,Canada
+24,2020-01-04 02:09:43.783783783,1092,543,7387.5577248416275,Online,High,WH-1,2-Day,Delivered,Satisfied,False,Damaged,Cash,True,West,Canada
+854,2020-01-02 11:27:34.054054054,1062,509,8500.57107817862,Direct,Low,WH-1,Express,Backorder,Satisfied,True,Wrong Item,Cash,True,West,Canada
+820,2020-01-01 08:51:53.513513513,1037,513,6241.413537290326,Reseller,High,WH-3,2-Day,Delivered,Satisfied,True,Late,PayPal,True,South,Mexico
+604,2020-01-01 12:19:27.567567567,1085,531,6672.986444260846,Online,Medium,WH-1,Express,Pending,Neutral,False,Not Specified,PayPal,False,East,Mexico
+93,2020-01-06 02:09:43.783783783,1030,559,1390.8769994416566,Reseller,Critical,WH-1,2-Day,Backorder,Neutral,True,Not Specified,Credit Card,True,North,Mexico
+541,2020-01-07 23:34:03.243243243,1030,550,6440.636614567312,Partner,Critical,WH-2,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,True,East,Canada
+361,2020-01-03 08:38:55.135135135,1023,512,9193.076958913613,Direct,High,WH-3,2-Day,Cancelled,Neutral,False,Late,PayPal,True,East,Mexico
+850,2020-01-06 16:51:53.513513513,1046,537,5642.066053945942,Direct,Medium,WH-3,Regular,Backorder,Neutral,False,Wrong Item,PayPal,False,West,Mexico
+84,2020-01-01 07:21:04.864864864,1091,556,3000.8497919211063,Reseller,Medium,WH-2,Express,Backorder,Unsatisfied,False,Not Specified,Wire Transfer,True,North,Mexico
+340,2020-01-08 18:35:40.540540540,1035,544,7449.1204171796,Direct,Low,WH-3,Regular,Pending,Neutral,False,Wrong Item,Cash,True,South,Mexico
+640,2020-01-01 16:12:58.378378378,1044,533,6888.818995399667,Direct,Critical,WH-2,Express,Backorder,Unsatisfied,True,Late,Credit Card,True,East,Canada
+625,2020-01-06 09:43:47.027027027,1069,554,2782.8416727784843,Online,High,WH-1,Regular,Delivered,Unsatisfied,False,Not Specified,PayPal,False,East,Mexico
+544,2020-01-06 21:11:21.081081081,1045,555,1069.4613581824287,Online,Critical,WH-1,Regular,Pending,Unsatisfied,True,Wrong Item,Cash,True,East,Canada
+211,2020-01-05 17:17:50.270270270,1018,524,3481.841726892759,Online,High,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Credit Card,False,East,USA
+911,2020-01-02 01:04:51.891891891,1057,516,8409.811846598244,Direct,Critical,WH-3,Express,Delivered,Neutral,True,Not Specified,Wire Transfer,False,South,Canada
+18,2020-01-08 20:19:27.567567567,1098,551,4866.048543529419,Partner,High,WH-2,2-Day,Pending,Satisfied,True,Wrong Item,Cash,False,North,Canada
+194,2020-01-07 05:11:21.081081081,1089,530,4974.122398129968,Direct,Critical,WH-1,2-Day,Cancelled,Neutral,True,Not Specified,PayPal,True,North,USA
+856,2020-01-04 01:04:51.891891891,1016,533,1233.2815371514455,Direct,Medium,WH-3,2-Day,Cancelled,Satisfied,True,Late,Wire Transfer,True,East,Mexico
+607,2020-01-07 16:00:00.000000000,1055,504,7424.922400998994,Reseller,High,WH-3,Express,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,West,Mexico
+817,2020-01-01 08:12:58.378378378,1045,510,5930.272670087967,Online,High,WH-2,Regular,Delivered,Unsatisfied,True,Damaged,Wire Transfer,True,North,USA
+501,2020-01-03 21:37:17.837837837,1043,529,4942.971518606332,Direct,High,WH-2,Overnight,Pending,Neutral,True,Damaged,Wire Transfer,False,North,Canada
+847,2020-01-04 12:45:24.324324324,1096,546,1431.07300541704,Online,Low,WH-3,Overnight,Delivered,Neutral,True,Wrong Item,Credit Card,False,South,Mexico
+180,2020-01-01 00:51:53.513513513,1088,552,8428.432007428462,Partner,High,WH-3,Regular,Pending,Neutral,True,Damaged,Wire Transfer,False,West,Canada
+252,2020-01-06 20:06:29.189189189,1066,540,7519.23343276381,Online,Medium,WH-1,Overnight,Backorder,Unsatisfied,False,Damaged,Credit Card,True,North,Mexico
+289,2020-01-08 16:38:55.135135135,1077,509,4119.417099849799,Online,Low,WH-2,Overnight,Backorder,Neutral,True,Not Specified,Cash,True,West,Mexico
+714,2020-01-06 00:00:00.000000000,1059,527,6751.971071536675,Partner,High,WH-3,2-Day,Backorder,Neutral,False,Wrong Item,Wire Transfer,False,East,USA
+339,2020-01-02 07:47:01.621621621,1030,551,5273.059228080576,Direct,Medium,WH-2,Express,Pending,Unsatisfied,False,Late,Cash,False,South,Canada
+654,2020-01-09 14:55:08.108108108,1040,502,2273.0794280779846,Online,Low,WH-2,2-Day,Pending,Neutral,False,Late,PayPal,False,North,Mexico
+96,2020-01-08 09:30:48.648648648,1005,512,880.5616309815975,Partner,Low,WH-3,Regular,Delivered,Unsatisfied,False,Damaged,Cash,True,West,Mexico
+582,2020-01-07 23:08:06.486486486,1067,519,9052.509056419667,Online,Medium,WH-1,2-Day,Pending,Unsatisfied,True,Late,Credit Card,False,West,USA
+237,2020-01-02 16:51:53.513513513,1075,524,6741.789733224019,Partner,Critical,WH-2,Express,Delivered,Satisfied,False,Damaged,Credit Card,False,East,USA
+202,2020-01-07 14:29:11.351351351,1044,538,1028.252455964376,Online,Critical,WH-2,Regular,Cancelled,Neutral,False,Wrong Item,PayPal,True,East,Canada
+987,2020-01-03 06:29:11.351351351,1040,518,5935.16815536096,Partner,Medium,WH-3,Overnight,Backorder,Unsatisfied,True,Wrong Item,Cash,True,West,Mexico
+320,2020-01-07 18:22:42.162162162,1050,512,6312.394690980604,Partner,High,WH-1,Regular,Cancelled,Unsatisfied,True,Damaged,Cash,False,West,Canada
+254,2020-01-07 02:09:43.783783783,1092,550,6757.817567906711,Online,High,WH-2,Express,Pending,Neutral,False,Damaged,Cash,True,West,Mexico
+545,2020-01-09 17:56:45.405405405,1093,508,5096.553818483975,Online,Critical,WH-1,Regular,Cancelled,Satisfied,True,Late,PayPal,False,East,USA
+595,2020-01-06 17:17:50.270270270,1096,509,7423.391517281151,Online,Low,WH-1,Regular,Delivered,Neutral,True,Late,PayPal,False,East,Mexico
+745,2020-01-04 18:35:40.540540540,1039,556,8783.174082164802,Direct,High,WH-1,2-Day,Backorder,Satisfied,False,Late,Wire Transfer,True,North,USA
+947,2020-01-09 17:43:47.027027027,1067,538,7912.020161088519,Direct,Medium,WH-1,2-Day,Cancelled,Unsatisfied,True,Not Specified,Credit Card,False,South,USA
+80,2020-01-04 20:19:27.567567567,1098,554,2594.7905026386475,Direct,Low,WH-2,2-Day,Delivered,Unsatisfied,True,Not Specified,PayPal,False,West,USA
+874,2020-01-05 00:00:00.000000000,1025,508,5151.61872230431,Direct,Low,WH-3,Express,Delivered,Satisfied,False,Damaged,PayPal,True,North,Mexico
+727,2020-01-01 19:14:35.675675675,1083,513,8230.37176536116,Online,Critical,WH-2,Overnight,Cancelled,Satisfied,True,Not Specified,PayPal,True,West,USA
+492,2020-01-02 10:35:40.540540540,1075,559,9929.527057133751,Online,High,WH-3,2-Day,Backorder,Neutral,True,Wrong Item,Credit Card,True,South,Canada
+845,2020-01-02 12:06:29.189189189,1018,539,5096.553818483975,Online,Critical,WH-3,2-Day,Cancelled,Unsatisfied,True,Unknown,Credit Card,False,West,USA
+899,2020-01-04 11:27:34.054054054,1025,505,8805.919674302266,Reseller,Low,WH-1,2-Day,Cancelled,Satisfied,True,Not Specified,Wire Transfer,True,North,Mexico
+308,2020-01-02 02:22:42.162162162,1009,506,1150.2792993771595,Reseller,High,WH-1,Overnight,Pending,Unsatisfied,False,Unknown,Credit Card,False,South,USA
+788,2020-01-04 13:24:19.459459459,1071,539,8236.674403053232,Online,High,WH-1,Regular,Cancelled,Satisfied,True,Damaged,Wire Transfer,False,South,Canada
+800,2020-01-08 15:47:01.621621621,1072,549,959.4457549634184,Reseller,Low,WH-3,2-Day,Delivered,Neutral,False,Unknown,Wire Transfer,False,East,Mexico
+189,2020-01-01 03:01:37.297297297,1018,503,1929.486574556976,Direct,Critical,WH-3,Overnight,Backorder,Neutral,True,Late,Wire Transfer,False,East,Mexico
+27,2020-01-08 06:03:14.594594594,1095,539,7881.968213691684,Reseller,Medium,WH-3,Overnight,Cancelled,Neutral,True,Damaged,Wire Transfer,True,South,USA
+231,2020-01-03 23:21:04.864864864,1022,538,5096.553818483975,Online,Medium,WH-3,Regular,Delivered,Unsatisfied,True,Damaged,Credit Card,True,East,Canada
+521,2020-01-03 04:58:22.702702702,1081,543,7770.951956651386,Reseller,Critical,WH-2,2-Day,Backorder,Neutral,False,Damaged,Wire Transfer,False,East,Mexico
+593,2020-01-03 09:56:45.405405405,1034,550,6137.883135694876,Online,High,WH-2,Overnight,Delivered,Satisfied,True,Wrong Item,Wire Transfer,True,South,USA
+843,2020-01-02 13:24:19.459459459,1013,542,8841.31837202234,Reseller,High,WH-2,2-Day,Cancelled,Satisfied,False,Late,PayPal,False,West,Mexico
+586,2020-01-04 03:27:34.054054054,1072,553,5096.553818483975,Direct,High,WH-1,Express,Cancelled,Unsatisfied,False,Damaged,PayPal,False,South,Mexico
+81,2020-01-05 13:50:16.216216216,1082,501,2572.971578245636,Direct,Medium,WH-1,Overnight,Backorder,Unsatisfied,False,Wrong Item,Credit Card,True,South,Mexico
+151,2020-01-05 09:43:47.027027027,1078,559,7864.818492432018,Direct,High,WH-2,Overnight,Delivered,Neutral,False,Unknown,Credit Card,False,South,USA
+806,2020-01-01 21:11:21.081081081,1094,521,5769.526735489489,Direct,Medium,WH-2,Regular,Backorder,Unsatisfied,True,Late,Wire Transfer,False,East,Mexico
+895,2020-01-09 01:17:50.270270270,1011,522,3824.4096089217833,Online,Low,WH-2,Overnight,Backorder,Unsatisfied,True,Wrong Item,Wire Transfer,False,East,Canada
+410,2020-01-08 09:30:48.648648648,1015,530,8431.998454096836,Partner,High,WH-3,Express,Delivered,Satisfied,False,Not Specified,PayPal,False,North,Canada
+468,2020-01-02 09:56:45.405405405,1036,543,1038.4641055754364,Reseller,High,WH-3,Express,Backorder,Unsatisfied,False,Not Specified,PayPal,False,North,Mexico
+475,2020-01-07 16:51:53.513513513,1055,557,5096.553818483975,Reseller,Low,WH-2,Express,Backorder,Unsatisfied,False,Damaged,PayPal,True,West,USA
+602,2020-01-08 01:56:45.405405405,1037,553,8399.424164566124,Online,Medium,WH-2,2-Day,Backorder,Neutral,False,Damaged,PayPal,False,South,USA
+89,2020-01-08 20:19:27.567567567,1038,547,7627.524757419002,Partner,Critical,WH-2,Overnight,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,False,West,Mexico
+689,2020-01-03 07:34:03.243243243,1012,523,7166.513601833944,Direct,Low,WH-3,Regular,Pending,Satisfied,True,Late,PayPal,False,East,USA
+896,2020-01-04 05:50:16.216216216,1062,544,7933.0452160214845,Reseller,Medium,WH-2,2-Day,Pending,Satisfied,True,Damaged,PayPal,False,North,Mexico
+162,2020-01-05 12:32:25.945945945,1048,512,8557.037732648485,Online,Low,WH-1,2-Day,Backorder,Neutral,True,Unknown,Wire Transfer,True,South,Mexico
+188,2020-01-02 20:32:25.945945945,1023,558,5096.553818483975,Online,High,WH-2,Express,Cancelled,Satisfied,True,Late,Wire Transfer,False,South,USA
+771,2020-01-03 12:06:29.189189189,1081,524,1681.2854935932685,Direct,Critical,WH-3,Regular,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Mexico
+539,2020-01-01 04:06:29.189189189,1062,552,7077.365908466934,Direct,Medium,WH-2,Express,Cancelled,Satisfied,False,Wrong Item,Cash,False,North,USA
+813,2020-01-06 01:56:45.405405405,1031,528,5640.581336349025,Partner,Critical,WH-1,Overnight,Cancelled,Unsatisfied,False,Late,Credit Card,True,North,USA
+219,2020-01-07 03:14:35.675675675,1041,530,1638.9653879907648,Partner,High,WH-3,Overnight,Backorder,Unsatisfied,True,Late,Cash,True,North,Mexico
+814,2020-01-02 08:25:56.756756756,1024,507,6248.3504261351145,Online,High,WH-2,Regular,Cancelled,Neutral,True,Not Specified,Cash,False,East,Canada
+610,2020-01-08 11:14:35.675675675,1007,546,500.291829031133,Online,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Late,Wire Transfer,True,West,USA
+448,2020-01-03 00:38:55.135135135,1100,545,8771.540326845674,Direct,Critical,WH-3,2-Day,Backorder,Satisfied,True,Not Specified,Credit Card,False,East,Canada
+134,2020-01-08 17:04:51.891891891,1019,503,3169.972626585447,Online,Medium,WH-2,Express,Delivered,Satisfied,False,Late,Cash,True,North,Canada
+450,2020-01-08 04:19:27.567567567,1005,547,2505.6964543013555,Direct,High,WH-3,Regular,Pending,Neutral,False,Not Specified,Credit Card,False,East,Mexico
+946,2020-01-09 13:50:16.216216216,1009,512,3870.902627660045,Reseller,Low,WH-2,Regular,Delivered,Unsatisfied,True,Damaged,Cash,True,East,USA
+748,2020-01-07 20:19:27.567567567,1044,504,8128.612874500045,Partner,Low,WH-2,2-Day,Pending,Neutral,False,Wrong Item,Wire Transfer,True,West,USA
+213,2020-01-08 13:11:21.081081081,1086,511,3080.5152221065114,Direct,Medium,WH-1,Express,Delivered,Neutral,False,Late,Cash,True,West,Mexico
+436,2020-01-04 08:51:53.513513513,1090,525,5723.75134637395,Online,High,WH-3,Express,Backorder,Satisfied,False,Damaged,Wire Transfer,True,East,Mexico
+558,2020-01-07 06:42:09.729729729,1051,534,764.5962878002068,Reseller,Low,WH-2,Regular,Cancelled,Unsatisfied,False,Wrong Item,PayPal,False,North,USA
+776,2020-01-03 10:48:38.918918918,1025,524,882.7124283909855,Direct,High,WH-3,Express,Delivered,Satisfied,True,Wrong Item,PayPal,True,North,Mexico
+790,2020-01-03 02:09:43.783783783,1023,525,1755.7067486617816,Reseller,High,WH-3,Regular,Delivered,Satisfied,True,Not Specified,Wire Transfer,False,North,Mexico
+982,2020-01-07 18:22:42.162162162,1058,512,6170.97962242514,Reseller,Low,WH-1,Regular,Cancelled,Neutral,False,Late,Credit Card,True,South,Mexico
+954,2020-01-09 17:56:45.405405405,1040,550,6296.025259344229,Direct,Critical,WH-2,2-Day,Cancelled,Satisfied,False,Wrong Item,Credit Card,False,East,Mexico
+767,2020-01-08 00:25:56.756756756,1083,526,8372.202608123749,Reseller,Critical,WH-3,Overnight,Backorder,Neutral,False,Damaged,PayPal,False,North,USA
+68,2020-01-03 20:06:29.189189189,1023,504,9714.301990779311,Online,Medium,WH-2,Regular,Delivered,Unsatisfied,True,Not Specified,Cash,True,West,USA
+187,2020-01-04 12:45:24.324324324,1003,560,2046.514397459179,Direct,Medium,WH-1,Regular,Delivered,Neutral,False,Wrong Item,Cash,False,South,Mexico
+520,2020-01-08 07:08:06.486486486,1071,559,2498.02628471504,Partner,Medium,WH-2,Regular,Pending,Satisfied,False,Wrong Item,Wire Transfer,False,North,Mexico
+62,2020-01-01 04:19:27.567567567,1005,560,3147.1090995928457,Partner,Critical,WH-2,Express,Backorder,Unsatisfied,True,Unknown,Cash,False,East,USA
+351,2020-01-08 00:12:58.378378378,1089,503,6935.661676668798,Online,Low,WH-3,Overnight,Cancelled,Unsatisfied,True,Unknown,Wire Transfer,False,South,USA
+150,2020-01-07 22:55:08.108108108,1049,503,5096.553818483975,Direct,Medium,WH-2,Overnight,Cancelled,Satisfied,True,Not Specified,Cash,False,West,Mexico
+955,2020-01-04 16:00:00.000000000,1025,545,5137.687915452733,Reseller,Low,WH-1,2-Day,Backorder,Satisfied,False,Late,PayPal,True,West,USA
+227,2020-01-06 00:00:00.000000000,1059,545,2061.852526249348,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,True,Late,Cash,False,North,USA
+279,2020-01-06 12:19:27.567567567,1012,555,3832.781538682648,Partner,Medium,WH-3,2-Day,Backorder,Satisfied,True,Unknown,PayPal,False,South,Mexico
+324,2020-01-02 02:35:40.540540540,1034,525,3871.527993122264,Direct,Medium,WH-1,Express,Pending,Neutral,True,Wrong Item,Cash,False,East,USA
+94,2020-01-01 22:42:09.729729729,1051,535,5118.239609541779,Reseller,Critical,WH-2,2-Day,Backorder,Unsatisfied,False,Wrong Item,PayPal,True,South,USA
+257,2020-01-03 02:22:42.162162162,1079,502,2138.97683099044,Online,Low,WH-1,Overnight,Pending,Unsatisfied,False,Wrong Item,PayPal,False,South,Canada
+636,2020-01-08 02:35:40.540540540,1094,519,8218.50129991963,Direct,Low,WH-2,2-Day,Pending,Satisfied,False,Damaged,Wire Transfer,False,East,USA
+659,2020-01-05 06:16:12.972972973,1004,526,8574.613639780451,Reseller,Medium,WH-3,Express,Delivered,Satisfied,False,Damaged,Wire Transfer,False,East,Mexico
+100,2020-01-07 13:37:17.837837837,1056,533,9130.128242854064,Reseller,Medium,WH-3,Overnight,Delivered,Neutral,False,Unknown,Credit Card,True,West,Canada
+203,2020-01-05 08:38:55.135135135,1025,548,565.3406410866685,Partner,High,WH-2,Express,Backorder,Neutral,False,Wrong Item,Cash,False,East,USA
+497,2020-01-08 03:14:35.675675675,1091,509,6764.518139778977,Online,Medium,WH-2,Express,Delivered,Satisfied,False,Damaged,Credit Card,False,West,Mexico
+163,2020-01-04 15:47:01.621621621,1061,518,9498.033897552354,Reseller,High,WH-3,2-Day,Pending,Neutral,False,Unknown,PayPal,False,North,Mexico
+358,2020-01-09 21:50:16.216216216,1051,515,8524.326136357131,Online,Medium,WH-2,Regular,Pending,Satisfied,False,Late,PayPal,True,North,Mexico
+915,2020-01-07 03:53:30.810810810,1006,512,7074.480253877576,Partner,Low,WH-3,Express,Backorder,Neutral,True,Not Specified,Credit Card,True,East,Mexico
+282,2020-01-01 17:17:50.270270270,1090,540,3617.705086577314,Online,High,WH-3,Overnight,Pending,Unsatisfied,False,Not Specified,Wire Transfer,False,West,Mexico
+670,2020-01-05 16:38:55.135135135,1042,505,6063.082996789819,Reseller,Low,WH-2,Overnight,Cancelled,Satisfied,True,Wrong Item,Credit Card,True,East,Canada
+628,2020-01-08 23:08:06.486486486,1002,521,1418.125925733647,Direct,Low,WH-3,Regular,Cancelled,Satisfied,True,Damaged,Cash,True,North,Mexico
+722,2020-01-05 11:40:32.432432432,1069,536,5096.553818483975,Online,High,WH-2,Regular,Pending,Satisfied,False,Not Specified,Wire Transfer,True,South,Mexico
+960,2020-01-04 03:01:37.297297297,1088,527,5380.224624545396,Direct,Low,WH-1,Express,Delivered,Neutral,False,Wrong Item,Cash,True,West,Canada
+466,2020-01-02 12:58:22.702702702,1021,520,4380.328023380584,Partner,Medium,WH-3,Regular,Backorder,Neutral,False,Wrong Item,Cash,True,North,Canada
+700,2020-01-04 09:56:45.405405405,1064,551,4261.403648861524,Reseller,Critical,WH-2,2-Day,Pending,Unsatisfied,True,Unknown,Wire Transfer,False,North,Canada
+629,2020-01-09 01:43:47.027027027,1067,515,2180.521032827847,Reseller,Critical,WH-2,Express,Backorder,Satisfied,True,Wrong Item,PayPal,False,North,USA
+534,2020-01-05 13:11:21.081081081,1094,544,5965.912144726436,Direct,Critical,WH-2,Overnight,Delivered,Neutral,True,Not Specified,Cash,True,North,Canada
+502,2020-01-08 20:19:27.567567567,1059,501,5096.553818483975,Direct,Low,WH-1,Overnight,Delivered,Satisfied,False,Wrong Item,Cash,True,South,Canada
+538,2020-01-07 03:53:30.810810810,1083,545,2649.5880850302688,Direct,Low,WH-1,Express,Cancelled,Neutral,True,Late,Credit Card,False,East,Mexico
+129,2020-01-01 08:38:55.135135135,1093,514,2756.0462891464463,Direct,Medium,WH-3,Regular,Cancelled,Neutral,True,Damaged,PayPal,True,North,USA
+148,2020-01-03 14:16:12.972972973,1046,557,5096.553818483975,Reseller,High,WH-3,2-Day,Delivered,Neutral,True,Late,Credit Card,True,North,Canada
+964,2020-01-07 06:42:09.729729729,1005,511,3213.4468913413093,Partner,High,WH-1,Overnight,Delivered,Neutral,True,Damaged,PayPal,True,East,Canada
+759,2020-01-09 19:14:35.675675675,1074,513,1265.8463491112166,Partner,Medium,WH-2,2-Day,Pending,Unsatisfied,True,Late,Cash,True,East,Canada
+603,2020-01-06 10:22:42.162162162,1054,513,9224.776649774802,Partner,Medium,WH-1,Regular,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,South,Mexico
+76,2020-01-01 19:40:32.432432432,1064,512,8528.648089212329,Reseller,Low,WH-2,Express,Delivered,Neutral,False,Wrong Item,Cash,True,South,Canada
+263,2020-01-07 01:04:51.891891891,1066,533,2966.8729700289327,Partner,Low,WH-1,Regular,Delivered,Unsatisfied,False,Late,Wire Transfer,False,West,Mexico
+112,2020-01-07 12:58:22.702702702,1043,534,2121.729451468562,Partner,High,WH-2,2-Day,Delivered,Satisfied,True,Not Specified,Wire Transfer,True,West,USA
+65,2020-01-03 11:01:37.297297297,1057,537,8344.254039826337,Reseller,High,WH-1,Regular,Pending,Unsatisfied,True,Late,Credit Card,True,South,Mexico
+185,2020-01-08 20:06:29.189189189,1056,553,1087.180376547615,Direct,High,WH-2,Express,Delivered,Satisfied,True,Unknown,PayPal,True,North,Mexico
+738,2020-01-08 10:22:42.162162162,1017,513,4221.553280341643,Online,Low,WH-1,Regular,Cancelled,Unsatisfied,False,Late,Wire Transfer,True,North,Canada
+920,2020-01-02 08:00:00.000000000,1087,530,5436.310920128572,Online,Low,WH-1,Express,Cancelled,Satisfied,False,Late,Cash,False,East,Canada
+711,2020-01-02 12:06:29.189189189,1040,553,3723.400039440891,Direct,High,WH-2,Regular,Backorder,Unsatisfied,False,Not Specified,Credit Card,True,East,Mexico
+55,2020-01-03 04:32:25.945945945,1034,530,2683.353895077375,Partner,Low,WH-3,Regular,Cancelled,Neutral,False,Late,Cash,False,North,Mexico
+149,2020-01-04 09:43:47.027027027,1034,505,8355.156329241156,Direct,High,WH-2,2-Day,Backorder,Unsatisfied,True,Damaged,Wire Transfer,False,North,Mexico
+830,2020-01-03 02:35:40.540540540,1086,554,4173.71704191779,Direct,High,WH-3,2-Day,Cancelled,Satisfied,False,Damaged,Cash,False,North,USA
+430,2020-01-01 06:55:08.108108108,1074,520,5669.887293785171,Partner,Low,WH-1,2-Day,Backorder,Neutral,False,Damaged,Cash,True,South,USA
+25,2020-01-05 10:09:43.783783783,1081,553,5955.731963357004,Online,Critical,WH-2,2-Day,Pending,Satisfied,False,Damaged,PayPal,False,North,Canada
+903,2020-01-05 12:58:22.702702702,1059,547,5096.553818483975,Partner,High,WH-3,Regular,Backorder,Satisfied,False,Late,Cash,False,South,USA
+319,2020-01-05 14:16:12.972972973,1060,554,8239.374544744896,Online,High,WH-2,2-Day,Delivered,Neutral,True,Damaged,Credit Card,True,South,Canada
+778,2020-01-01 13:11:21.081081081,1089,549,5404.691342377903,Reseller,Medium,WH-1,Regular,Cancelled,Unsatisfied,False,Late,Wire Transfer,False,East,Canada
+102,2020-01-02 10:48:38.918918918,1074,547,4929.844422928279,Reseller,Medium,WH-1,Express,Cancelled,Unsatisfied,True,Not Specified,Cash,False,North,Canada
+473,2020-01-01 21:11:21.081081081,1063,520,6594.292571934391,Direct,Critical,WH-3,2-Day,Pending,Unsatisfied,False,Unknown,Credit Card,False,South,Canada
+310,2020-01-07 21:37:17.837837837,1015,522,1605.4056090627107,Partner,Low,WH-1,Express,Cancelled,Neutral,True,Not Specified,PayPal,False,East,Canada
+7,2020-01-07 07:21:04.864864864,1011,542,3372.985357146096,Reseller,Critical,WH-3,Overnight,Delivered,Neutral,False,Wrong Item,Wire Transfer,False,East,Mexico
+728,2020-01-07 23:34:03.243243243,1099,504,9434.787552354324,Partner,Critical,WH-2,2-Day,Pending,Satisfied,False,Wrong Item,Credit Card,True,West,Mexico
+927,2020-01-07 01:56:45.405405405,1050,505,9518.09450933336,Online,Critical,WH-1,Regular,Pending,Neutral,True,Not Specified,Cash,True,West,USA
+20,2020-01-02 04:06:29.189189189,1001,523,8312.621506260866,Reseller,Critical,WH-1,Overnight,Cancelled,Neutral,False,Unknown,Wire Transfer,True,West,Canada
+655,2020-01-05 01:43:47.027027027,1066,546,744.0516262593776,Online,High,WH-1,Regular,Pending,Satisfied,True,Wrong Item,Credit Card,True,South,USA
+904,2020-01-02 17:04:51.891891891,1072,557,9793.096351002305,Online,Medium,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,PayPal,False,North,Canada
+833,2020-01-07 18:09:43.783783783,1082,549,5361.220747589658,Direct,High,WH-3,Express,Backorder,Unsatisfied,False,Wrong Item,Cash,True,North,USA
+86,2020-01-01 17:17:50.270270270,1063,518,8771.355824192418,Reseller,Medium,WH-2,Regular,Backorder,Satisfied,False,Late,Wire Transfer,False,West,USA
+190,2020-01-08 17:17:50.270270270,1038,520,9696.725623781967,Reseller,High,WH-2,Overnight,Cancelled,Neutral,True,Late,Cash,False,West,USA
+79,2020-01-05 02:09:43.783783783,1050,510,6891.263836918433,Reseller,Low,WH-3,Regular,Pending,Neutral,False,Wrong Item,Credit Card,True,South,Canada
+9,2020-01-06 12:45:24.324324324,1026,527,8136.146459593014,Online,Low,WH-3,2-Day,Backorder,Satisfied,True,Wrong Item,PayPal,False,East,Mexico
+244,2020-01-06 15:34:03.243243243,1009,515,1492.3179219514382,Direct,Medium,WH-3,Regular,Pending,Unsatisfied,False,Late,Cash,True,South,Canada
+906,2020-01-04 07:34:03.243243243,1093,516,8092.000725495429,Direct,Medium,WH-2,Express,Cancelled,Neutral,False,Damaged,Cash,False,West,Mexico
+349,2020-01-08 20:19:27.567567567,1089,541,7647.779881885985,Online,Critical,WH-3,Regular,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,Mexico
+783,2020-01-04 13:37:17.837837837,1026,550,8191.9128445259485,Partner,High,WH-1,2-Day,Delivered,Satisfied,False,Damaged,PayPal,True,North,Canada
+945,2020-01-05 05:37:17.837837837,1029,516,5096.553818483975,Direct,Low,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Wire Transfer,True,West,Canada
+272,2020-01-06 01:43:47.027027027,1070,526,6332.71791008971,Reseller,High,WH-2,Regular,Delivered,Satisfied,True,Damaged,Cash,False,East,Canada
+139,2020-01-06 19:53:30.810810810,1042,529,7632.31166750503,Reseller,High,WH-2,Regular,Pending,Unsatisfied,True,Damaged,Cash,False,North,Mexico
+33,2020-01-05 03:14:35.675675675,1037,513,8950.43345491575,Partner,Medium,WH-3,2-Day,Cancelled,Neutral,False,Wrong Item,PayPal,False,South,USA
+355,2020-01-09 12:19:27.567567567,1039,535,1891.144437726753,Direct,Medium,WH-2,Regular,Backorder,Neutral,True,Not Specified,Credit Card,True,North,USA
+531,2020-01-04 16:00:00.000000000,1001,543,6145.297359431674,Direct,Low,WH-2,Overnight,Delivered,Satisfied,True,Late,Credit Card,False,South,Canada
+78,2020-01-09 14:29:11.351351351,1038,517,2163.669831238356,Partner,Critical,WH-3,2-Day,Delivered,Satisfied,True,Not Specified,PayPal,False,North,Mexico
+645,2020-01-01 18:22:42.162162162,1074,544,1719.095690793263,Reseller,Low,WH-2,2-Day,Delivered,Satisfied,True,Late,PayPal,True,East,Mexico
+341,2020-01-07 09:30:48.648648648,1085,518,9602.12108473462,Direct,Critical,WH-3,Overnight,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,West,Mexico
+5,2020-01-01 22:55:08.108108108,1096,525,1285.999938372804,Partner,Critical,WH-2,Overnight,Pending,Neutral,False,Not Specified,PayPal,False,West,USA
+743,2020-01-04 17:04:51.891891891,1042,542,5096.553818483975,Reseller,High,WH-3,Overnight,Backorder,Neutral,False,Not Specified,Cash,True,West,Canada
+421,2020-01-08 08:12:58.378378378,1095,545,772.1980619877179,Partner,Low,WH-2,2-Day,Cancelled,Unsatisfied,False,Wrong Item,Cash,True,West,USA
+551,2020-01-08 12:06:29.189189189,1001,529,5046.019514235464,Partner,Low,WH-2,Express,Backorder,Neutral,False,Wrong Item,Wire Transfer,False,West,Mexico
+695,2020-01-08 16:00:00.000000000,1026,560,1040.3732788876423,Partner,High,WH-1,Overnight,Backorder,Neutral,True,Not Specified,Cash,False,West,USA
+590,2020-01-09 10:09:43.783783783,1097,526,5096.553818483975,Partner,Critical,WH-3,Regular,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,USA
+715,2020-01-03 13:24:19.459459459,1039,529,5096.553818483975,Partner,Medium,WH-1,Regular,Backorder,Neutral,False,Damaged,Cash,True,North,Canada
+589,2020-01-08 09:43:47.027027027,1051,541,3083.5683142828875,Direct,High,WH-1,Overnight,Backorder,Neutral,True,Not Specified,Credit Card,False,South,Mexico
+869,2020-01-08 05:37:17.837837837,1030,527,1229.2015879430112,Direct,Critical,WH-2,Express,Cancelled,Unsatisfied,True,Unknown,Credit Card,False,North,Mexico
+712,2020-01-08 13:50:16.216216216,1011,552,5306.350716035805,Direct,Low,WH-2,Overnight,Pending,Satisfied,False,Late,Credit Card,False,North,Mexico
+204,2020-01-04 15:47:01.621621621,1017,557,2518.2491333569933,Online,Medium,WH-3,Express,Cancelled,Satisfied,True,Wrong Item,PayPal,True,North,Canada
+223,2020-01-06 19:27:34.054054054,1064,531,5181.786053061834,Reseller,Low,WH-1,Regular,Delivered,Neutral,True,Late,Cash,True,South,Canada
+165,2020-01-07 13:11:21.081081081,1026,544,7521.136271424039,Direct,High,WH-2,2-Day,Cancelled,Neutral,False,Not Specified,Credit Card,False,South,Canada
+515,2020-01-09 20:58:22.702702702,1022,542,8274.614035405584,Partner,High,WH-1,Regular,Backorder,Unsatisfied,False,Damaged,Cash,True,West,Canada
+848,2020-01-09 12:19:27.567567567,1099,536,918.6256849186232,Online,High,WH-3,2-Day,Backorder,Satisfied,False,Not Specified,Cash,False,East,Canada
+705,2020-01-04 20:06:29.189189189,1053,522,2883.3514489616523,Direct,Low,WH-1,Express,Delivered,Satisfied,False,Unknown,Wire Transfer,False,North,Canada
+936,2020-01-05 17:30:48.648648648,1089,520,3899.206868688134,Direct,Low,WH-2,Overnight,Pending,Neutral,False,Late,Credit Card,True,South,Mexico
+425,2020-01-04 12:32:25.945945945,1043,547,3411.11181568203,Online,Medium,WH-2,Overnight,Delivered,Neutral,False,Not Specified,Cash,True,West,Canada
+47,2020-01-08 01:04:51.891891891,1065,534,1697.0192647079457,Partner,Medium,WH-1,Overnight,Cancelled,Neutral,False,Not Specified,Wire Transfer,True,West,Mexico
+402,2020-01-01 21:11:21.081081081,1038,521,4234.48712181431,Online,High,WH-2,2-Day,Pending,Neutral,True,Wrong Item,Wire Transfer,True,East,USA
+547,2020-01-05 05:37:17.837837837,1016,521,8569.740859144487,Reseller,Medium,WH-1,2-Day,Delivered,Unsatisfied,False,Damaged,Cash,True,East,Canada
+864,2020-01-05 14:16:12.972972973,1094,560,7000.985364790775,Online,Low,WH-1,Regular,Delivered,Satisfied,True,Wrong Item,Wire Transfer,True,East,Mexico
+392,2020-01-09 17:04:51.891891891,1027,542,2615.422751669307,Reseller,High,WH-3,2-Day,Pending,Unsatisfied,True,Unknown,PayPal,True,South,Mexico
+429,2020-01-06 18:09:43.783783783,1011,525,9751.10392689292,Partner,Medium,WH-3,Regular,Pending,Neutral,False,Not Specified,Wire Transfer,False,South,Mexico
+348,2020-01-04 00:51:53.513513513,1004,556,4330.5010152463165,Online,Critical,WH-1,Regular,Backorder,Satisfied,False,Late,Credit Card,True,East,USA
+428,2020-01-04 14:29:11.351351351,1020,539,4278.00193711402,Direct,Critical,WH-3,2-Day,Cancelled,Satisfied,False,Late,Cash,False,North,Mexico
+952,2020-01-09 17:04:51.891891891,1009,533,5096.553818483975,Direct,Low,WH-2,Regular,Cancelled,Satisfied,False,Damaged,Wire Transfer,True,West,USA
+420,2020-01-03 11:40:32.432432432,1027,538,4232.5035344852,Reseller,Critical,WH-2,2-Day,Cancelled,Unsatisfied,False,Not Specified,Wire Transfer,True,East,Mexico
+356,2020-01-02 08:25:56.756756756,1014,529,8412.832297955167,Direct,Critical,WH-2,Overnight,Cancelled,Neutral,True,Not Specified,Cash,False,East,Canada
+796,2020-01-07 11:01:37.297297297,1079,555,9072.83112305141,Online,Low,WH-1,Express,Cancelled,Unsatisfied,True,Unknown,PayPal,False,South,Mexico
+260,2020-01-09 18:35:40.540540540,1051,541,9413.999422187502,Direct,Low,WH-3,2-Day,Cancelled,Neutral,False,Late,Credit Card,True,East,Mexico
+608,2020-01-05 06:16:12.972972973,1048,534,7908.298398095647,Reseller,High,WH-1,Regular,Pending,Unsatisfied,False,Late,Wire Transfer,False,South,Canada
+395,2020-01-01 22:16:12.972972972,1068,558,4463.3374763634765,Online,Critical,WH-3,Express,Pending,Unsatisfied,True,Not Specified,Wire Transfer,True,North,Canada
+512,2020-01-02 09:17:50.270270270,1049,551,5783.81157998511,Online,High,WH-2,Regular,Delivered,Unsatisfied,True,Wrong Item,Credit Card,True,West,Mexico
+383,2020-01-04 15:08:06.486486486,1029,553,9908.15688603966,Reseller,Critical,WH-1,2-Day,Pending,Satisfied,True,Not Specified,PayPal,True,East,USA
+296,2020-01-02 03:53:30.810810810,1023,508,1627.115774545013,Partner,Low,WH-1,Express,Backorder,Unsatisfied,False,Damaged,PayPal,False,West,USA
+566,2020-01-03 17:43:47.027027027,1032,550,978.9593492209874,Online,High,WH-3,Overnight,Delivered,Unsatisfied,False,Not Specified,Wire Transfer,False,South,Mexico
+397,2020-01-03 06:42:09.729729729,1066,512,2123.895822998059,Reseller,Medium,WH-3,Regular,Backorder,Neutral,True,Damaged,Cash,True,West,Mexico
+385,2020-01-01 11:27:34.054054054,1094,536,6233.523661760649,Direct,Low,WH-3,Overnight,Backorder,Unsatisfied,True,Late,Cash,False,North,Mexico
+131,2020-01-01 03:01:37.297297297,1050,522,7383.683725052475,Partner,Low,WH-2,Overnight,Backorder,Neutral,False,Wrong Item,Cash,False,South,Mexico
+554,2020-01-09 15:08:06.486486486,1066,505,5096.553818483975,Online,High,WH-3,Overnight,Backorder,Neutral,True,Late,Wire Transfer,True,West,Mexico
+638,2020-01-03 05:11:21.081081081,1098,529,3404.5675957492654,Online,Critical,WH-1,2-Day,Cancelled,Unsatisfied,False,Wrong Item,PayPal,True,North,Mexico
+405,2020-01-09 05:24:19.459459459,1047,535,6786.327485117588,Reseller,Low,WH-2,2-Day,Cancelled,Neutral,False,Late,PayPal,True,West,Mexico
+508,2020-01-08 16:25:56.756756756,1052,559,2414.5195910599723,Partner,High,WH-1,Regular,Backorder,Unsatisfied,False,Wrong Item,Cash,False,East,Mexico
+172,2020-01-05 22:03:14.594594594,1047,517,5096.553818483975,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,False,Unknown,Wire Transfer,True,North,Canada
+276,2020-01-04 11:14:35.675675675,1084,515,8323.74615281228,Online,High,WH-2,Express,Delivered,Unsatisfied,False,Damaged,Cash,False,East,Mexico
+198,2020-01-03 03:53:30.810810810,1057,544,5989.965570593839,Online,Critical,WH-1,2-Day,Delivered,Satisfied,False,Late,Cash,True,East,Canada
+489,2020-01-09 19:53:30.810810810,1063,515,6877.072839676759,Reseller,High,WH-1,Regular,Delivered,Neutral,True,Damaged,PayPal,True,South,Mexico
+573,2020-01-06 12:19:27.567567567,1055,549,6208.6640537613175,Reseller,Medium,WH-2,Regular,Backorder,Unsatisfied,True,Damaged,Credit Card,False,East,USA
+812,2020-01-05 08:25:56.756756756,1014,535,5096.553818483975,Direct,High,WH-1,Regular,Cancelled,Neutral,False,Wrong Item,Cash,False,East,Mexico
+353,2020-01-09 13:50:16.216216216,1040,510,7449.216408409821,Reseller,High,WH-2,Regular,Cancelled,Satisfied,False,Late,PayPal,True,North,Mexico
+802,2020-01-04 07:08:06.486486486,1087,544,8350.237704026775,Direct,Low,WH-2,2-Day,Backorder,Satisfied,False,Unknown,Wire Transfer,True,South,Mexico
+732,2020-01-06 09:56:45.405405405,1073,511,5035.45380006336,Reseller,Low,WH-2,Overnight,Cancelled,Unsatisfied,False,Wrong Item,Credit Card,False,South,USA
+457,2020-01-08 11:01:37.297297297,1029,516,5534.435575837213,Online,High,WH-2,2-Day,Backorder,Unsatisfied,False,Damaged,Credit Card,True,West,Canada
+635,2020-01-06 05:24:19.459459459,1038,521,6035.787268774475,Online,Low,WH-1,Regular,Pending,Neutral,True,Unknown,PayPal,False,North,Mexico
+281,2020-01-09 13:37:17.837837837,1001,549,8154.28799384807,Online,Low,WH-2,Overnight,Cancelled,Neutral,False,Damaged,Wire Transfer,True,East,Mexico
+658,2020-01-02 22:55:08.108108108,1022,521,6362.506472072235,Online,Medium,WH-1,Regular,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,East,Canada
+725,2020-01-07 12:58:22.702702702,1036,502,5096.553818483975,Partner,Medium,WH-2,Regular,Cancelled,Satisfied,True,Not Specified,Credit Card,True,West,USA
+414,2020-01-07 03:01:37.297297297,1029,514,8749.890477495874,Reseller,Low,WH-1,Regular,Pending,Satisfied,True,Damaged,PayPal,False,East,Mexico
+40,2020-01-05 06:29:11.351351351,1073,546,8463.189000277105,Partner,Low,WH-3,2-Day,Pending,Satisfied,False,Unknown,PayPal,True,North,USA
+344,2020-01-09 08:38:55.135135135,1083,519,9375.889084591156,Reseller,Critical,WH-1,Express,Delivered,Satisfied,False,Wrong Item,Credit Card,False,East,Mexico
+269,2020-01-08 11:14:35.675675675,1045,502,7074.106931493219,Partner,Medium,WH-1,2-Day,Delivered,Satisfied,False,Not Specified,Wire Transfer,False,South,Canada
+867,2020-01-03 16:51:53.513513513,1045,505,4130.325010909408,Reseller,Critical,WH-3,Regular,Backorder,Unsatisfied,True,Late,Wire Transfer,True,South,USA
+318,2020-01-09 03:53:30.810810810,1062,518,8419.618099514137,Direct,Low,WH-3,Overnight,Pending,Unsatisfied,False,Wrong Item,PayPal,True,South,Canada
+381,2020-01-02 20:45:24.324324324,1064,536,7941.330838082453,Partner,Low,WH-1,Regular,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,North,USA
+36,2020-01-03 06:29:11.351351351,1083,539,5149.229105362593,Online,Critical,WH-1,Regular,Pending,Unsatisfied,False,Late,Wire Transfer,False,East,Canada
+835,2020-01-01 01:43:47.027027027,1016,539,4136.448953828885,Online,Low,WH-2,Regular,Backorder,Satisfied,False,Wrong Item,Cash,True,North,Canada
+225,2020-01-01 05:50:16.216216216,1059,532,6162.778574763907,Reseller,High,WH-3,Express,Backorder,Unsatisfied,True,Wrong Item,Wire Transfer,True,West,Canada
+404,2020-01-08 17:56:45.405405405,1031,533,657.6285660096798,Direct,Low,WH-2,2-Day,Pending,Satisfied,True,Not Specified,Cash,False,North,Mexico
+63,2020-01-08 13:37:17.837837837,1094,515,2577.743103074041,Partner,Low,WH-1,Overnight,Backorder,Unsatisfied,True,Late,PayPal,True,East,Canada
+773,2020-01-08 19:14:35.675675675,1080,557,9723.932371243876,Online,High,WH-2,Express,Cancelled,Satisfied,True,Wrong Item,Cash,True,North,Canada
+175,2020-01-06 12:19:27.567567567,1014,508,3729.7327060358575,Direct,Critical,WH-3,Regular,Pending,Unsatisfied,False,Not Specified,Cash,True,West,Canada
+114,2020-01-07 07:34:03.243243243,1023,504,2442.259538410594,Direct,Critical,WH-2,Overnight,Cancelled,Unsatisfied,False,Wrong Item,Wire Transfer,False,South,Canada
+99,2020-01-04 14:42:09.729729729,1010,511,2762.393209824115,Partner,Low,WH-1,Express,Delivered,Neutral,False,Late,PayPal,False,East,Mexico
+784,2020-01-07 06:55:08.108108108,1047,524,9530.061799066883,Online,Critical,WH-3,Express,Backorder,Satisfied,False,Late,Cash,True,North,Canada
+329,2020-01-07 22:29:11.351351351,1040,555,4254.963496596,Partner,High,WH-3,Regular,Delivered,Satisfied,True,Late,Cash,False,West,Mexico
+726,2020-01-08 15:21:04.864864864,1020,549,1083.7397562424812,Direct,Critical,WH-2,Overnight,Delivered,Unsatisfied,False,Damaged,Cash,False,West,Canada
+807,2020-01-04 13:24:19.459459459,1039,517,8346.356931225153,Partner,Critical,WH-2,Regular,Cancelled,Neutral,True,Late,Wire Transfer,False,South,Mexico
+561,2020-01-02 02:48:38.918918918,1001,555,5707.37942591621,Partner,Critical,WH-1,Regular,Cancelled,Unsatisfied,False,Wrong Item,Cash,False,West,USA
+691,2020-01-09 21:24:19.459459459,1071,555,3906.9050285591184,Reseller,Critical,WH-3,Regular,Delivered,Satisfied,True,Late,PayPal,False,South,Canada
+43,2020-01-07 03:14:35.675675675,1045,541,4364.645609041374,Online,High,WH-3,Express,Backorder,Neutral,True,Wrong Item,Cash,True,West,Canada
+888,2020-01-02 23:21:04.864864864,1043,517,8076.383430316616,Online,Low,WH-1,2-Day,Pending,Neutral,True,Wrong Item,Credit Card,False,North,Mexico
+680,2020-01-04 23:21:04.864864864,1086,523,6329.560078399146,Reseller,Critical,WH-1,2-Day,Backorder,Neutral,False,Damaged,Wire Transfer,True,North,USA
+913,2020-01-01 12:19:27.567567567,1041,517,8731.020243627152,Reseller,High,WH-1,Regular,Backorder,Satisfied,True,Damaged,Cash,False,West,Canada
+247,2020-01-03 07:47:01.621621621,1040,522,1627.7364073365588,Partner,Critical,WH-1,2-Day,Cancelled,Unsatisfied,True,Wrong Item,Wire Transfer,False,South,USA
+384,2020-01-02 08:38:55.135135135,1033,534,5096.553818483975,Direct,Medium,WH-1,2-Day,Backorder,Neutral,False,Late,Credit Card,False,South,Canada
+287,2020-01-02 23:21:04.864864864,1011,509,8488.632748827618,Reseller,Low,WH-3,Regular,Pending,Neutral,False,Not Specified,Cash,True,West,Canada
+513,2020-01-05 09:43:47.027027027,1029,514,7905.408663528603,Direct,Critical,WH-3,Express,Cancelled,Unsatisfied,False,Not Specified,Credit Card,True,East,Canada
+403,2020-01-02 08:51:53.513513513,1013,515,1452.332855367328,Partner,Low,WH-1,2-Day,Backorder,Satisfied,True,Not Specified,Credit Card,False,East,Canada
+870,2020-01-01 14:55:08.108108108,1068,532,5096.553818483975,Partner,Low,WH-3,Express,Backorder,Neutral,False,Wrong Item,PayPal,True,West,USA
+780,2020-01-08 22:03:14.594594594,1015,527,5096.553818483975,Reseller,High,WH-3,Overnight,Cancelled,Unsatisfied,False,Not Specified,Credit Card,True,East,USA
+781,2020-01-07 13:24:19.459459459,1059,537,6886.381529294849,Partner,Critical,WH-2,2-Day,Delivered,Satisfied,True,Wrong Item,Credit Card,True,South,USA
+14,2020-01-05 03:01:37.297297297,1027,543,6427.985612525333,Direct,Critical,WH-2,Express,Backorder,Neutral,True,Damaged,Cash,False,North,Canada
+819,2020-01-07 05:37:17.837837837,1003,514,1066.0774248548653,Reseller,High,WH-3,Express,Backorder,Satisfied,False,Late,PayPal,True,East,Canada
+529,2020-01-08 08:38:55.135135135,1049,556,3581.129084839421,Online,Medium,WH-1,Regular,Pending,Neutral,False,Wrong Item,Credit Card,True,West,USA
+236,2020-01-03 01:43:47.027027027,1094,551,5882.749959601898,Partner,Critical,WH-3,2-Day,Delivered,Neutral,False,Damaged,Cash,True,West,Mexico
+212,2020-01-02 10:22:42.162162162,1100,508,7065.030221022987,Reseller,Medium,WH-3,2-Day,Backorder,Satisfied,False,Wrong Item,Credit Card,False,South,Canada
+578,2020-01-06 13:50:16.216216216,1093,546,7289.8289182693425,Online,Critical,WH-2,Express,Delivered,Unsatisfied,True,Late,Cash,False,East,USA
+919,2020-01-08 08:00:00.000000000,1047,516,4326.025105094892,Direct,Medium,WH-1,Regular,Delivered,Unsatisfied,False,Not Specified,Cash,False,South,USA
+2,2020-01-04 22:03:14.594594594,1033,513,3755.128891963954,Partner,High,WH-1,2-Day,Cancelled,Neutral,True,Damaged,PayPal,True,West,Mexico
+267,2020-01-07 05:24:19.459459459,1026,522,5096.553818483975,Partner,Low,WH-2,Regular,Pending,Unsatisfied,False,Damaged,Cash,True,South,USA
+467,2020-01-02 23:21:04.864864864,1090,508,6957.12355991678,Direct,Critical,WH-2,2-Day,Pending,Unsatisfied,True,Damaged,Cash,False,North,USA
+101,2020-01-06 00:00:00.000000000,1017,506,4946.656015225756,Direct,Medium,WH-2,Regular,Delivered,Satisfied,False,Not Specified,PayPal,True,South,Mexico
+972,2020-01-07 08:00:00.000000000,1077,506,6443.97816648285,Online,Medium,WH-1,Regular,Delivered,Neutral,False,Damaged,Credit Card,False,East,USA
+230,2020-01-09 14:55:08.108108108,1053,560,9072.923816217984,Reseller,High,WH-1,Regular,Backorder,Neutral,False,Late,Credit Card,True,North,USA
+637,2020-01-08 17:56:45.405405405,1009,560,3605.939731198415,Direct,Critical,WH-2,Express,Delivered,Unsatisfied,True,Late,Credit Card,True,West,USA
+782,2020-01-04 01:43:47.027027027,1026,504,5072.140536582751,Partner,Critical,WH-2,Regular,Pending,Unsatisfied,False,Unknown,Cash,False,South,Mexico
+56,2020-01-08 11:40:32.432432432,1054,507,5750.291543879108,Reseller,Low,WH-3,Regular,Delivered,Unsatisfied,False,Wrong Item,Cash,True,North,USA
+255,2020-01-03 00:25:56.756756756,1075,560,5096.553818483975,Online,Medium,WH-3,2-Day,Cancelled,Neutral,False,Not Specified,Cash,True,West,Mexico
+26,2020-01-04 17:17:50.270270270,1069,530,6838.51720334472,Direct,Critical,WH-1,Overnight,Delivered,Unsatisfied,True,Unknown,Wire Transfer,False,North,Mexico
+974,2020-01-05 12:19:27.567567567,1069,522,4369.972480021907,Reseller,Critical,WH-1,2-Day,Cancelled,Neutral,False,Wrong Item,PayPal,True,South,Mexico
+646,2020-01-07 06:29:11.351351351,1030,538,5995.678828178636,Direct,Low,WH-2,Overnight,Backorder,Satisfied,False,Not Specified,Credit Card,False,North,USA
+312,2020-01-03 12:19:27.567567567,1038,503,9415.580503034467,Partner,Low,WH-2,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,False,East,USA
+142,2020-01-02 05:50:16.216216216,1021,516,2750.8665866131623,Partner,High,WH-2,2-Day,Backorder,Neutral,True,Unknown,Cash,True,South,Mexico
+291,2020-01-07 14:55:08.108108108,1033,531,8324.424302115247,Reseller,Low,WH-1,Regular,Delivered,Neutral,True,Late,Cash,False,South,Mexico
+818,2020-01-01 23:21:04.864864864,1098,509,2255.964780496737,Direct,Critical,WH-2,Overnight,Delivered,Satisfied,True,Damaged,Wire Transfer,False,North,Canada
+666,2020-01-07 14:29:11.351351351,1075,529,5096.553818483975,Partner,Medium,WH-1,Regular,Pending,Satisfied,True,Damaged,Wire Transfer,True,South,USA
+556,2020-01-01 10:48:38.918918918,1094,522,1275.1878400459643,Reseller,High,WH-2,Regular,Cancelled,Neutral,False,Wrong Item,PayPal,True,West,Canada
+686,2020-01-08 03:01:37.297297297,1091,543,5096.553818483975,Partner,High,WH-2,Overnight,Delivered,Unsatisfied,False,Late,Credit Card,False,West,Canada
+280,2020-01-06 14:55:08.108108108,1047,544,3944.318067311398,Online,Critical,WH-3,2-Day,Delivered,Neutral,True,Wrong Item,Credit Card,False,East,Mexico
+197,2020-01-07 16:25:56.756756756,1039,517,7661.746785744173,Partner,Critical,WH-2,Overnight,Pending,Satisfied,False,Not Specified,Wire Transfer,True,West,Canada
+550,2020-01-04 04:19:27.567567567,1018,508,3742.5271365254953,Reseller,Medium,WH-2,Regular,Pending,Unsatisfied,True,Unknown,Credit Card,False,East,Mexico
+285,2020-01-01 00:12:58.378378378,1038,559,4933.584648401879,Reseller,High,WH-3,Regular,Delivered,Neutral,False,Damaged,Wire Transfer,False,North,Mexico
+74,2020-01-09 01:56:45.405405405,1051,527,1326.663573876493,Partner,Low,WH-1,Regular,Backorder,Satisfied,False,Damaged,Credit Card,True,North,Mexico
+106,2020-01-03 10:09:43.783783783,1069,511,4584.859534150068,Online,Medium,WH-2,Express,Backorder,Neutral,False,Wrong Item,PayPal,False,North,Mexico
+15,2020-01-01 18:48:38.918918918,1049,545,3099.5839696773305,Partner,Low,WH-2,Express,Cancelled,Unsatisfied,True,Late,Credit Card,False,East,Canada
+825,2020-01-06 16:51:53.513513513,1087,507,1261.0044027912213,Partner,High,WH-3,Overnight,Cancelled,Unsatisfied,True,Late,PayPal,False,South,Mexico
+986,2020-01-05 22:03:14.594594594,1098,538,9173.893935453632,Partner,Low,WH-1,Regular,Pending,Satisfied,False,Damaged,PayPal,False,East,Mexico
+983,2020-01-09 07:47:01.621621621,1067,547,8196.530354617174,Online,Critical,WH-2,Regular,Backorder,Neutral,True,Damaged,Cash,False,East,Canada
+302,2020-01-04 17:43:47.027027027,1002,559,4373.606997525956,Direct,Low,WH-2,Express,Delivered,Neutral,False,Wrong Item,Wire Transfer,False,North,Canada
+69,2020-01-01 02:48:38.918918918,1079,520,5926.974464402425,Online,Medium,WH-2,Overnight,Delivered,Satisfied,False,Wrong Item,Credit Card,True,West,Canada
+928,2020-01-03 00:51:53.513513513,1082,520,5096.553818483975,Partner,High,WH-2,Regular,Delivered,Unsatisfied,True,Wrong Item,Wire Transfer,False,West,USA
+105,2020-01-09 23:08:06.486486486,1088,551,5096.553818483975,Partner,Medium,WH-3,Regular,Pending,Neutral,False,Late,Credit Card,True,West,Mexico
+58,2020-01-02 04:06:29.189189189,1050,541,6785.838966477296,Reseller,Low,WH-3,2-Day,Backorder,Satisfied,True,Late,Wire Transfer,False,South,USA
+909,2020-01-09 08:38:55.135135135,1074,557,4490.1045408087975,Direct,High,WH-2,Regular,Cancelled,Neutral,False,Damaged,Cash,False,South,USA
+798,2020-01-04 10:48:38.918918918,1009,505,2555.1613874928566,Direct,High,WH-1,2-Day,Delivered,Neutral,True,Wrong Item,Cash,False,South,Canada
+683,2020-01-03 22:03:14.594594594,1057,550,6039.737081446044,Reseller,High,WH-1,Express,Backorder,Unsatisfied,True,Late,PayPal,False,West,Mexico
+328,2020-01-04 03:14:35.675675675,1001,519,1166.027326591941,Reseller,Low,WH-2,Regular,Delivered,Unsatisfied,True,Late,Cash,True,East,Mexico
+103,2020-01-02 19:27:34.054054054,1017,515,7725.468603325182,Direct,Medium,WH-3,Express,Delivered,Unsatisfied,True,Wrong Item,Cash,True,West,USA
+446,2020-01-03 12:58:22.702702702,1043,556,5096.553818483975,Partner,Medium,WH-3,Overnight,Cancelled,Neutral,True,Wrong Item,PayPal,False,South,USA
+434,2020-01-08 22:42:09.729729729,1023,517,9090.311268371868,Reseller,Medium,WH-2,Overnight,Backorder,Neutral,True,Not Specified,Cash,True,South,Canada
+559,2020-01-06 04:06:29.189189189,1063,501,6498.065597458384,Direct,Critical,WH-3,Express,Pending,Unsatisfied,True,Wrong Item,Cash,False,East,Canada
+644,2020-01-09 23:21:04.864864864,1081,535,6507.764436422332,Direct,High,WH-3,2-Day,Backorder,Satisfied,True,Late,Credit Card,False,East,Canada
+471,2020-01-04 08:25:56.756756756,1057,557,7123.055075310815,Partner,Medium,WH-2,Overnight,Delivered,Unsatisfied,False,Damaged,Cash,True,East,Canada
+451,2020-01-06 11:27:34.054054054,1037,531,7648.449207071696,Partner,High,WH-3,Regular,Backorder,Neutral,True,Late,Cash,True,West,Canada
+823,2020-01-04 13:50:16.216216216,1090,502,2654.339940536634,Partner,Low,WH-1,Regular,Cancelled,Satisfied,True,Wrong Item,PayPal,True,West,USA
+975,2020-01-09 15:08:06.486486486,1077,543,5453.081704000541,Online,High,WH-2,Express,Pending,Unsatisfied,True,Not Specified,Cash,True,West,Mexico
+461,2020-01-05 22:03:14.594594594,1086,512,7721.5288330065105,Partner,Critical,WH-2,2-Day,Delivered,Neutral,True,Late,PayPal,True,North,Canada
+249,2020-01-07 09:17:50.270270270,1024,520,2539.6109309018766,Online,Critical,WH-2,2-Day,Backorder,Neutral,True,Unknown,Cash,True,North,Canada
+549,2020-01-01 19:40:32.432432432,1019,555,7474.436960895639,Online,High,WH-1,Express,Pending,Satisfied,False,Unknown,PayPal,True,East,Canada
+314,2020-01-08 22:55:08.108108108,1094,560,1229.6289589870046,Online,High,WH-2,Regular,Delivered,Satisfied,False,Damaged,Cash,True,East,Canada
+409,2020-01-07 08:25:56.756756756,1056,548,725.2236596229246,Online,Low,WH-1,Overnight,Delivered,Satisfied,True,Unknown,PayPal,False,West,Mexico
+615,2020-01-06 18:22:42.162162162,1085,534,5632.844364234247,Reseller,Medium,WH-3,2-Day,Delivered,Satisfied,False,Late,Cash,True,West,Mexico
+277,2020-01-04 11:27:34.054054054,1097,534,8296.613527284404,Reseller,High,WH-3,Overnight,Delivered,Satisfied,False,Damaged,Wire Transfer,True,South,Mexico
+723,2020-01-07 18:48:38.918918919,1056,530,6767.0575928395065,Online,Medium,WH-2,Regular,Pending,Neutral,False,Damaged,Wire Transfer,True,South,Canada
+407,2020-01-08 21:37:17.837837837,1088,508,2048.681581241419,Direct,Low,WH-1,Express,Cancelled,Unsatisfied,True,Late,Credit Card,False,South,Canada
+313,2020-01-08 12:45:24.324324324,1035,541,6786.8884584805655,Partner,Low,WH-1,Overnight,Delivered,Unsatisfied,False,Wrong Item,Wire Transfer,False,North,Canada
+934,2020-01-03 02:09:43.783783783,1099,530,5096.124128676149,Partner,Medium,WH-3,2-Day,Cancelled,Satisfied,False,Wrong Item,Cash,True,West,USA
+144,2020-01-06 08:00:00.000000000,1001,559,5874.924770989465,Partner,High,WH-3,Regular,Cancelled,Neutral,False,Damaged,PayPal,False,West,USA
+66,2020-01-04 11:40:32.432432432,1017,529,3214.2218927784584,Reseller,Low,WH-3,2-Day,Delivered,Neutral,False,Late,PayPal,True,East,Mexico
+130,2020-01-02 09:43:47.027027027,1032,520,971.3365467189558,Partner,Low,WH-1,Overnight,Backorder,Satisfied,True,Wrong Item,Wire Transfer,True,North,USA
+540,2020-01-03 21:11:21.081081081,1032,516,5096.553818483975,Online,Low,WH-2,Regular,Pending,Satisfied,True,Damaged,Cash,False,South,USA
+741,2020-01-05 10:22:42.162162162,1061,556,2483.8938871986047,Reseller,Medium,WH-3,2-Day,Pending,Satisfied,True,Not Specified,Wire Transfer,True,North,USA
+852,2020-01-05 15:34:03.243243243,1062,536,933.0590005123536,Online,High,WH-2,Overnight,Cancelled,Unsatisfied,False,Wrong Item,Wire Transfer,False,West,USA
+154,2020-01-01 05:50:16.216216216,1027,560,785.9867860075299,Partner,Critical,WH-1,Regular,Delivered,Satisfied,False,Unknown,PayPal,False,South,Mexico
+897,2020-01-09 09:56:45.405405405,1077,558,9928.888891538729,Reseller,Critical,WH-1,Regular,Cancelled,Satisfied,True,Damaged,Cash,False,West,USA
+811,2020-01-05 05:11:21.081081081,1017,515,4434.340148048829,Reseller,High,WH-1,2-Day,Pending,Neutral,True,Damaged,PayPal,True,West,Canada
+90,2020-01-04 11:40:32.432432432,1097,529,5096.553818483975,Online,Medium,WH-2,Regular,Pending,Unsatisfied,False,Wrong Item,Cash,True,South,USA
+75,2020-01-04 01:17:50.270270270,1038,517,5789.456653817785,Partner,High,WH-2,Express,Pending,Unsatisfied,False,Damaged,PayPal,False,South,Canada
+266,2020-01-03 02:09:43.783783783,1008,526,5096.553818483975,Direct,High,WH-3,Regular,Cancelled,Satisfied,True,Late,Credit Card,True,West,USA
+642,2020-01-06 21:37:17.837837837,1086,532,3494.7746291697827,Direct,Low,WH-2,Regular,Cancelled,Neutral,True,Unknown,PayPal,False,West,Canada
+59,2020-01-05 08:38:55.135135135,1012,532,1841.62366204492,Online,Medium,WH-3,Overnight,Backorder,Neutral,False,Not Specified,Credit Card,True,West,Mexico
+580,2020-01-01 22:03:14.594594594,1065,533,5491.967919880985,Partner,Critical,WH-2,2-Day,Backorder,Unsatisfied,True,Damaged,Cash,True,South,USA
+486,2020-01-02 00:51:53.513513513,1026,556,1985.0112217341784,Partner,Low,WH-1,Regular,Pending,Unsatisfied,False,Late,Cash,True,West,USA
+877,2020-01-02 11:53:30.810810810,1053,554,3686.030259065893,Online,Low,WH-1,Express,Delivered,Satisfied,True,Not Specified,Wire Transfer,True,North,Mexico
+632,2020-01-09 23:47:01.621621621,1020,558,5552.7817817976575,Online,Critical,WH-2,Express,Pending,Unsatisfied,True,Wrong Item,Wire Transfer,True,East,USA
+991,2020-01-03 07:08:06.486486486,1006,524,2845.141762159463,Online,Low,WH-1,Express,Pending,Neutral,True,Not Specified,PayPal,False,East,Canada
+400,2020-01-05 14:03:14.594594594,1074,518,9030.664145053992,Direct,Low,WH-1,Regular,Cancelled,Unsatisfied,False,Not Specified,Cash,True,North,USA
+259,2020-01-06 23:21:04.864864864,1094,533,3315.39732837624,Reseller,High,WH-1,Express,Cancelled,Satisfied,False,Damaged,Cash,False,East,Canada
+178,2020-01-06 18:48:38.918918918,1087,546,2979.960999231057,Online,Medium,WH-3,Express,Delivered,Satisfied,False,Wrong Item,Wire Transfer,True,North,Canada
+406,2020-01-09 01:30:48.648648648,1100,526,6223.269698682584,Partner,Low,WH-2,Overnight,Cancelled,Unsatisfied,True,Not Specified,Wire Transfer,False,East,Canada
+914,2020-01-06 00:00:00.000000000,1003,516,1066.3645907742607,Online,High,WH-3,2-Day,Cancelled,Unsatisfied,False,Late,Cash,True,East,Mexico
+12,2020-01-02 22:16:12.972972972,1086,507,5302.333223703708,Direct,High,WH-3,Regular,Delivered,Unsatisfied,True,Unknown,Credit Card,False,North,USA
+268,2020-01-02 00:12:58.378378378,1051,539,1001.2699496662248,Partner,High,WH-1,Express,Pending,Unsatisfied,False,Not Specified,PayPal,True,East,USA
+979,2020-01-07 12:19:27.567567567,1096,537,8685.81640464146,Direct,High,WH-2,Overnight,Pending,Unsatisfied,False,Late,Wire Transfer,True,West,USA
+868,2020-01-02 04:19:27.567567567,1014,544,5769.9521311823655,Partner,High,WH-3,Regular,Backorder,Unsatisfied,True,Not Specified,PayPal,False,South,Canada
+239,2020-01-04 11:01:37.297297297,1062,517,4295.428453575881,Reseller,Low,WH-3,Express,Pending,Satisfied,False,Not Specified,PayPal,False,North,Canada
+261,2020-01-08 10:35:40.540540540,1062,513,8278.032180098482,Reseller,High,WH-1,Regular,Pending,Satisfied,False,Wrong Item,PayPal,False,South,Mexico
+274,2020-01-05 14:03:14.594594594,1068,558,5096.553818483975,Reseller,Critical,WH-2,2-Day,Cancelled,Neutral,True,Wrong Item,PayPal,True,North,Mexico
+942,2020-01-08 23:21:04.864864864,1056,532,5096.553818483975,Partner,Low,WH-3,Overnight,Delivered,Unsatisfied,False,Not Specified,Cash,False,North,Mexico
+422,2020-01-09 05:50:16.216216216,1036,541,6040.89772696929,Partner,Medium,WH-2,Regular,Pending,Satisfied,False,Not Specified,Credit Card,False,East,Mexico
+747,2020-01-03 11:40:32.432432432,1003,520,3782.0681103727343,Online,Low,WH-1,Regular,Backorder,Unsatisfied,False,Unknown,Cash,False,East,Mexico
+300,2020-01-07 01:04:51.891891891,1013,520,810.2610774527109,Direct,Low,WH-1,2-Day,Backorder,Satisfied,False,Late,Credit Card,False,South,USA
+616,2020-01-01 12:19:27.567567567,1019,518,8585.931986546828,Online,Critical,WH-3,Overnight,Delivered,Unsatisfied,False,Damaged,PayPal,True,West,Canada
+98,2020-01-07 07:47:01.621621621,1004,529,2471.638893954183,Direct,Medium,WH-3,Express,Delivered,Satisfied,False,Wrong Item,Cash,False,South,Canada
+761,2020-01-01 20:32:25.945945945,1055,522,7673.769365729361,Reseller,Medium,WH-1,Regular,Backorder,Satisfied,True,Damaged,PayPal,False,South,Mexico
+16,2020-01-04 08:25:56.756756756,1077,558,5134.426026168118,Partner,High,WH-1,2-Day,Pending,Neutral,False,Late,PayPal,True,West,Mexico
+601,2020-01-08 11:27:34.054054054,1068,509,1396.9795277745689,Direct,Medium,WH-1,2-Day,Backorder,Satisfied,True,Wrong Item,Cash,True,West,Mexico
+673,2020-01-01 21:24:19.459459459,1038,537,6558.85434753312,Direct,High,WH-1,Express,Cancelled,Unsatisfied,False,Damaged,Cash,False,North,Canada
+1000,2020-01-03 06:03:14.594594594,1048,514,5421.736231383276,Direct,High,WH-3,Regular,Backorder,Unsatisfied,False,Wrong Item,Wire Transfer,False,South,Mexico
+786,2020-01-02 14:03:14.594594594,1010,536,9833.952086432368,Direct,High,WH-2,2-Day,Delivered,Neutral,False,Wrong Item,Cash,True,East,USA
+184,2020-01-04 13:50:16.216216216,1059,544,9321.990340096245,Partner,Low,WH-2,2-Day,Pending,Satisfied,True,Wrong Item,Cash,True,North,USA
+572,2020-01-04 23:47:01.621621621,1087,540,1353.8300914935262,Direct,Low,WH-2,Express,Delivered,Satisfied,True,Late,PayPal,True,North,Mexico
+157,2020-01-08 13:24:19.459459459,1047,534,9365.44833371341,Direct,High,WH-3,Overnight,Delivered,Neutral,False,Wrong Item,Cash,False,North,USA
+447,2020-01-01 05:37:17.837837837,1076,536,3705.815650160175,Partner,Medium,WH-2,Express,Cancelled,Unsatisfied,True,Wrong Item,Cash,False,East,Mexico
+907,2020-01-04 16:12:58.378378378,1063,542,3674.830784644544,Reseller,Medium,WH-2,2-Day,Pending,Unsatisfied,False,Not Specified,PayPal,False,South,USA
+292,2020-01-03 00:25:56.756756756,1006,532,4153.805221798299,Direct,Low,WH-1,Overnight,Cancelled,Satisfied,False,Not Specified,Credit Card,True,West,Mexico
+805,2020-01-01 14:42:09.729729729,1095,555,5096.553818483975,Partner,Critical,WH-1,2-Day,Cancelled,Satisfied,True,Damaged,Wire Transfer,False,North,Mexico
+275,2020-01-08 06:16:12.972972973,1019,550,3912.4830963355594,Reseller,High,WH-1,Overnight,Backorder,Satisfied,True,Not Specified,Cash,True,East,Mexico
+739,2020-01-05 12:06:29.189189189,1001,531,2045.2777435021087,Online,Low,WH-2,2-Day,Pending,Neutral,False,Late,Cash,True,South,USA
+338,2020-01-02 07:34:03.243243243,1060,532,2698.1160455800564,Direct,Critical,WH-1,Overnight,Backorder,Unsatisfied,False,Not Specified,Wire Transfer,False,North,Canada
+77,2020-01-04 07:08:06.486486486,1098,522,8061.300677863272,Direct,Medium,WH-2,Express,Pending,Satisfied,True,Not Specified,Cash,False,South,USA
+222,2020-01-09 13:50:16.216216216,1026,547,3235.4807554219287,Online,Medium,WH-1,2-Day,Backorder,Unsatisfied,True,Unknown,Credit Card,False,South,USA
+519,2020-01-04 12:45:24.324324324,1049,524,3293.640890679389,Online,Low,WH-3,Express,Delivered,Unsatisfied,False,Damaged,Wire Transfer,False,West,Canada
+918,2020-01-08 11:01:37.297297297,1054,503,5711.58994301954,Online,Critical,WH-3,Regular,Backorder,Satisfied,False,Damaged,Credit Card,False,South,USA
+127,2020-01-04 09:56:45.405405405,1067,502,737.2307901119711,Partner,High,WH-3,2-Day,Pending,Neutral,False,Wrong Item,Wire Transfer,True,East,Canada
+209,2020-01-05 20:45:24.324324324,1010,553,9007.847057252467,Partner,Medium,WH-2,Express,Cancelled,Neutral,False,Late,Wire Transfer,False,South,Mexico
+647,2020-01-03 13:24:19.459459459,1059,526,7087.510216534935,Online,Medium,WH-1,Express,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Mexico
+424,2020-01-09 01:30:48.648648648,1026,560,7980.033602418093,Reseller,Medium,WH-2,Regular,Pending,Neutral,False,Wrong Item,Wire Transfer,True,West,USA
+118,2020-01-07 17:43:47.027027027,1075,541,9150.754313537009,Direct,Low,WH-2,2-Day,Delivered,Neutral,False,Unknown,Credit Card,True,South,USA
+839,2020-01-09 05:11:21.081081081,1099,519,1089.3934610872657,Online,Medium,WH-2,Overnight,Backorder,Neutral,True,Damaged,PayPal,False,East,USA
+288,2020-01-06 02:09:43.783783783,1100,506,2601.767616237608,Direct,Medium,WH-2,Overnight,Backorder,Neutral,False,Damaged,PayPal,True,West,Mexico
+304,2020-01-08 12:32:25.945945946,1065,511,6735.89123325624,Online,Medium,WH-2,Express,Cancelled,Neutral,False,Not Specified,PayPal,True,North,Canada
+733,2020-01-04 18:09:43.783783783,1026,507,6217.163972481749,Direct,Critical,WH-1,2-Day,Delivered,Neutral,False,Wrong Item,Cash,True,West,USA
+52,2020-01-06 01:30:48.648648648,1072,548,6003.48743328841,Reseller,Medium,WH-1,Overnight,Delivered,Satisfied,True,Not Specified,Wire Transfer,True,West,USA
+298,2020-01-07 03:40:32.432432432,1044,550,6996.73129243576,Reseller,Critical,WH-1,2-Day,Delivered,Satisfied,True,Not Specified,Wire Transfer,False,North,USA
+736,2020-01-09 03:01:37.297297297,1073,510,3711.801888979483,Reseller,Critical,WH-2,Regular,Delivered,Satisfied,False,Wrong Item,PayPal,True,North,USA
+809,2020-01-09 12:45:24.324324324,1018,548,7951.851995521574,Partner,High,WH-2,Express,Cancelled,Satisfied,True,Late,Credit Card,False,East,Canada
+623,2020-01-02 01:17:50.270270270,1001,501,6267.785168393981,Online,High,WH-3,Express,Delivered,Neutral,False,Damaged,Cash,False,West,Mexico
+411,2020-01-02 11:01:37.297297297,1029,523,9759.56066246124,Direct,Low,WH-2,Regular,Pending,Satisfied,True,Damaged,Credit Card,True,East,Mexico
+765,2020-01-07 14:55:08.108108108,1080,528,5029.969338464682,Reseller,Medium,WH-2,Regular,Cancelled,Satisfied,False,Late,Cash,False,East,Canada
+999,2020-01-03 04:06:29.189189189,1059,552,5096.553818483975,Partner,Critical,WH-1,Express,Backorder,Unsatisfied,True,Damaged,Wire Transfer,True,South,Mexico
+740,2020-01-06 15:08:06.486486486,1089,507,7476.473926676074,Reseller,Medium,WH-3,Overnight,Delivered,Satisfied,True,Wrong Item,Wire Transfer,False,East,Canada
+445,2020-01-07 23:34:03.243243243,1060,512,1405.9287520935336,Online,Critical,WH-3,Express,Cancelled,Neutral,False,Unknown,Credit Card,False,West,Mexico
+687,2020-01-04 00:25:56.756756756,1040,545,4928.725115711792,Online,Medium,WH-3,2-Day,Backorder,Neutral,False,Damaged,Credit Card,False,South,Mexico
+240,2020-01-04 09:17:50.270270270,1094,512,3604.549705648885,Online,Low,WH-1,Regular,Backorder,Satisfied,False,Late,Cash,True,South,Canada
+342,2020-01-08 09:04:51.891891891,1037,506,2594.23704033148,Reseller,Critical,WH-1,Express,Delivered,Neutral,True,Not Specified,Credit Card,False,West,Mexico
+117,2020-01-07 11:27:34.054054054,1095,513,6343.726835141399,Reseller,Medium,WH-1,Overnight,Cancelled,Satisfied,False,Wrong Item,PayPal,True,East,Canada
+496,2020-01-01 03:40:32.432432432,1082,502,8041.271987126376,Reseller,Low,WH-1,2-Day,Pending,Neutral,True,Wrong Item,Credit Card,False,East,USA
+316,2020-01-02 18:35:40.540540540,1049,514,5731.3021046880895,Online,Critical,WH-3,2-Day,Pending,Satisfied,False,Not Specified,Credit Card,False,North,Mexico
+537,2020-01-01 07:34:03.243243243,1056,523,7801.522643675419,Partner,Medium,WH-3,Overnight,Pending,Neutral,False,Not Specified,Cash,False,South,Mexico
+753,2020-01-09 06:42:09.729729729,1019,544,4264.969942233095,Online,Critical,WH-2,Express,Delivered,Satisfied,True,Not Specified,Cash,False,North,Mexico
+832,2020-01-06 22:03:14.594594594,1013,541,4279.037688826433,Reseller,Medium,WH-2,Overnight,Cancelled,Unsatisfied,False,Late,Wire Transfer,False,East,Canada
+505,2020-01-06 15:08:06.486486486,1024,506,3637.7043412698017,Online,Medium,WH-3,Overnight,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,South,USA
+39,2020-01-06 01:04:51.891891891,1078,513,5090.218201479851,Online,High,WH-2,Regular,Cancelled,Satisfied,False,Late,Credit Card,False,East,Canada
+570,2020-01-08 01:04:51.891891891,1034,508,5252.646084473723,Direct,Low,WH-1,Overnight,Delivered,Neutral,False,Late,Wire Transfer,True,South,USA
+488,2020-01-03 06:29:11.351351351,1035,547,3924.507798844762,Direct,Medium,WH-2,Overnight,Backorder,Neutral,True,Late,Wire Transfer,False,West,USA
+323,2020-01-02 19:14:35.675675675,1009,513,1505.8060230247283,Online,Low,WH-1,Express,Pending,Satisfied,True,Wrong Item,Credit Card,False,East,USA
+297,2020-01-01 11:14:35.675675675,1010,508,9370.619518513966,Partner,Medium,WH-1,Overnight,Cancelled,Unsatisfied,False,Unknown,Cash,True,South,Canada
+981,2020-01-07 14:03:14.594594594,1093,542,8961.255326887504,Direct,Critical,WH-3,2-Day,Backorder,Unsatisfied,True,Unknown,Wire Transfer,True,South,Canada
+892,2020-01-05 06:42:09.729729729,1063,530,9263.125694733182,Online,Medium,WH-1,Express,Pending,Satisfied,True,Late,PayPal,False,North,USA
+388,2020-01-09 06:42:09.729729729,1029,534,1643.6819984963456,Reseller,Critical,WH-1,2-Day,Delivered,Unsatisfied,True,Late,Credit Card,False,West,USA
+703,2020-01-09 14:42:09.729729729,1065,521,4416.657414400823,Partner,Critical,WH-2,Regular,Delivered,Neutral,False,Wrong Item,Credit Card,True,North,USA
+408,2020-01-04 00:51:53.513513513,1052,536,2721.221914384109,Partner,High,WH-1,2-Day,Delivered,Satisfied,True,Unknown,Cash,True,South,USA
+393,2020-01-04 18:35:40.540540540,1055,551,3418.555961702073,Online,Critical,WH-2,Express,Cancelled,Satisfied,True,Wrong Item,PayPal,True,West,USA
+668,2020-01-01 04:45:24.324324324,1018,525,5096.553818483975,Reseller,High,WH-3,2-Day,Delivered,Unsatisfied,True,Not Specified,Cash,True,South,USA
+224,2020-01-08 03:53:30.810810810,1098,538,3349.449662881715,Direct,Medium,WH-2,2-Day,Delivered,Satisfied,False,Unknown,Credit Card,False,North,USA
+35,2020-01-01 04:32:25.945945945,1074,512,2354.081913577179,Direct,High,WH-2,Regular,Backorder,Neutral,False,Wrong Item,Credit Card,False,South,Mexico
+562,2020-01-02 08:12:58.378378378,1008,526,2159.1482660151305,Direct,Medium,WH-1,Overnight,Pending,Neutral,False,Late,Wire Transfer,False,North,Mexico
+284,2020-01-02 00:12:58.378378378,1064,503,1304.539247815415,Online,Medium,WH-3,Express,Delivered,Satisfied,True,Not Specified,Credit Card,False,East,Canada
+619,2020-01-07 18:09:43.783783783,1029,523,5387.382613528995,Direct,High,WH-1,Regular,Delivered,Neutral,False,Not Specified,Wire Transfer,False,South,Mexico
+769,2020-01-07 06:03:14.594594594,1095,515,3132.1578722772965,Online,High,WH-3,Overnight,Backorder,Neutral,True,Damaged,Credit Card,False,West,Canada
+922,2020-01-08 23:21:04.864864864,1009,523,1784.56448027212,Direct,Critical,WH-2,Overnight,Pending,Unsatisfied,True,Damaged,Credit Card,True,North,Mexico
+838,2020-01-05 10:09:43.783783783,1055,546,5304.119065923052,Direct,Critical,WH-3,Regular,Delivered,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+503,2020-01-07 04:06:29.189189189,1051,555,4406.3095207601655,Online,Medium,WH-1,2-Day,Delivered,Satisfied,True,Not Specified,Cash,False,East,Canada
+485,2020-01-09 22:29:11.351351351,1057,544,4271.425540971004,Online,Critical,WH-2,Express,Pending,Satisfied,False,Unknown,Credit Card,False,East,Canada
+386,2020-01-02 01:43:47.027027027,1027,502,5096.553818483975,Online,Medium,WH-3,Express,Delivered,Unsatisfied,False,Damaged,Wire Transfer,False,West,Canada
+161,2020-01-01 10:09:43.783783783,1063,524,3516.72215244709,Direct,Low,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Cash,False,South,Mexico
+533,2020-01-08 10:48:38.918918919,1013,523,6984.0583656083545,Direct,Critical,WH-1,Express,Delivered,Satisfied,False,Late,Credit Card,False,South,USA
+846,2020-01-02 12:32:25.945945945,1032,545,962.6010597993328,Direct,Critical,WH-1,Express,Backorder,Satisfied,False,Late,Credit Card,False,North,Canada
+156,2020-01-02 19:14:35.675675675,1026,515,6844.745113657727,Direct,High,WH-2,Express,Cancelled,Neutral,True,Not Specified,PayPal,False,West,Mexico
+664,2020-01-03 14:16:12.972972973,1087,528,5045.665166018297,Partner,Critical,WH-2,Overnight,Backorder,Satisfied,True,Late,PayPal,False,East,Canada
+827,2020-01-02 11:01:37.297297297,1015,518,2051.984204784992,Partner,Low,WH-3,Express,Backorder,Unsatisfied,False,Late,Wire Transfer,False,West,Canada
+85,2020-01-02 20:19:27.567567567,1051,559,506.2072122323458,Partner,Medium,WH-1,Regular,Pending,Satisfied,True,Unknown,Cash,True,West,USA
+186,2020-01-08 03:40:32.432432432,1007,524,1377.4250170580958,Direct,Critical,WH-3,2-Day,Pending,Unsatisfied,True,Damaged,Credit Card,False,South,Canada
+910,2020-01-09 09:43:47.027027027,1098,555,5994.417749607131,Partner,Critical,WH-3,Express,Backorder,Neutral,True,Wrong Item,Cash,False,North,Mexico
+208,2020-01-02 12:45:24.324324324,1068,553,8903.575438181331,Direct,Critical,WH-1,Overnight,Pending,Neutral,False,Wrong Item,Cash,False,West,USA
+92,2020-01-04 12:06:29.189189189,1079,536,3836.5841798134174,Direct,Low,WH-1,Regular,Backorder,Satisfied,False,Late,Credit Card,False,South,Mexico
+293,2020-01-04 11:01:37.297297297,1050,541,4861.678221223468,Reseller,Low,WH-1,2-Day,Pending,Satisfied,False,Late,PayPal,True,South,Mexico
+810,2020-01-09 00:25:56.756756756,1059,537,6186.34843556872,Partner,High,WH-1,Overnight,Backorder,Unsatisfied,True,Late,PayPal,True,East,USA
+87,2020-01-09 09:17:50.270270270,1098,550,8029.65072548678,Direct,Medium,WH-1,Regular,Cancelled,Satisfied,True,Wrong Item,Cash,True,East,Mexico
+959,2020-01-02 02:09:43.783783783,1098,502,6193.3432265606925,Online,Medium,WH-1,Regular,Pending,Satisfied,True,Damaged,Cash,True,West,Mexico
+454,2020-01-09 15:21:04.864864864,1031,503,4700.0168294573405,Partner,Low,WH-2,Express,Delivered,Unsatisfied,False,Unknown,PayPal,True,South,USA
+751,2020-01-08 19:40:32.432432432,1098,554,5875.580322975843,Direct,High,WH-2,Overnight,Cancelled,Neutral,False,Unknown,Cash,True,South,USA
+218,2020-01-06 04:45:24.324324324,1042,518,8394.01712502315,Online,Low,WH-1,Regular,Backorder,Unsatisfied,True,Wrong Item,Credit Card,True,East,Mexico
+138,2020-01-02 03:40:32.432432432,1092,528,4224.8889805934405,Partner,High,WH-3,Regular,Backorder,Neutral,True,Wrong Item,Credit Card,True,West,Mexico
+251,2020-01-04 16:38:55.135135135,1006,510,6151.050105268141,Reseller,Critical,WH-3,Express,Delivered,Satisfied,True,Wrong Item,PayPal,False,South,Canada
+444,2020-01-04 22:29:11.351351351,1097,540,9338.784991608592,Online,Low,WH-3,Regular,Delivered,Satisfied,False,Late,Credit Card,True,South,USA
+861,2020-01-04 01:43:47.027027027,1084,504,2835.5507036873028,Direct,Low,WH-1,Regular,Cancelled,Neutral,False,Damaged,PayPal,False,East,USA
+523,2020-01-01 08:12:58.378378378,1049,525,8722.842640135932,Partner,Critical,WH-2,Express,Cancelled,Neutral,False,Damaged,PayPal,False,North,USA
+210,2020-01-01 07:34:03.243243243,1067,502,5096.553818483975,Reseller,Low,WH-3,Regular,Delivered,Neutral,True,Wrong Item,Cash,False,South,Mexico
+264,2020-01-06 11:14:35.675675675,1079,513,9712.37451158078,Partner,Medium,WH-1,2-Day,Delivered,Unsatisfied,False,Late,Wire Transfer,True,East,Mexico
+677,2020-01-09 03:40:32.432432432,1025,515,7048.448914975557,Partner,Critical,WH-1,Regular,Cancelled,Neutral,True,Not Specified,Wire Transfer,True,East,Mexico
+182,2020-01-05 12:32:25.945945945,1026,503,2264.464184049263,Direct,Medium,WH-2,Regular,Backorder,Unsatisfied,True,Not Specified,Cash,False,North,USA
+849,2020-01-08 03:40:32.432432432,1039,540,2260.1300781686305,Online,Medium,WH-3,Express,Pending,Satisfied,False,Damaged,Credit Card,False,East,Mexico
+416,2020-01-02 10:35:40.540540540,1068,502,4486.460136664698,Online,Medium,WH-2,Express,Pending,Unsatisfied,True,Not Specified,PayPal,False,South,USA
+865,2020-01-03 22:29:11.351351351,1049,502,9515.316336946513,Reseller,High,WH-3,Regular,Pending,Unsatisfied,True,Not Specified,Credit Card,False,East,Mexico
+951,2020-01-08 01:17:50.270270270,1042,536,5890.213969482697,Direct,Low,WH-3,Express,Delivered,Satisfied,True,Not Specified,PayPal,False,North,Canada
+437,2020-01-01 04:32:25.945945945,1046,557,5096.553818483975,Reseller,High,WH-3,Express,Delivered,Neutral,False,Not Specified,Cash,False,South,USA
+456,2020-01-05 01:43:47.027027027,1051,514,4248.436995529776,Partner,Medium,WH-1,2-Day,Pending,Unsatisfied,False,Not Specified,Cash,True,West,USA
+332,2020-01-09 14:16:12.972972973,1060,545,8359.370422503836,Online,Critical,WH-2,2-Day,Cancelled,Satisfied,True,Wrong Item,Wire Transfer,False,West,Mexico
+343,2020-01-05 09:30:48.648648648,1005,518,8918.72683522878,Direct,Medium,WH-2,Overnight,Delivered,Unsatisfied,True,Wrong Item,Credit Card,False,East,Canada
+763,2020-01-06 23:08:06.486486486,1012,521,8370.167373920413,Online,Critical,WH-2,Overnight,Cancelled,Neutral,False,Late,Credit Card,True,West,USA
+824,2020-01-03 00:00:00.000000000,1055,535,6831.958778583832,Direct,High,WH-1,Regular,Delivered,Satisfied,False,Not Specified,Credit Card,True,East,USA
+121,2020-01-01 11:14:35.675675675,1004,555,977.3085933183304,Reseller,Low,WH-3,2-Day,Backorder,Satisfied,True,Not Specified,PayPal,True,East,USA
+631,2020-01-02 16:38:55.135135135,1012,512,4718.983790612877,Direct,Critical,WH-3,Regular,Delivered,Neutral,True,Not Specified,Credit Card,False,North,USA
+821,2020-01-02 16:00:00.000000000,1043,557,7755.076558828045,Reseller,High,WH-2,Overnight,Delivered,Unsatisfied,True,Late,PayPal,False,West,USA
+42,2020-01-05 14:16:12.972972973,1051,549,8668.049410710633,Direct,Low,WH-1,Overnight,Pending,Satisfied,False,Wrong Item,Wire Transfer,False,West,Canada
+57,2020-01-05 12:58:22.702702702,1003,510,5096.553818483975,Reseller,Medium,WH-3,Overnight,Backorder,Unsatisfied,True,Wrong Item,Wire Transfer,False,East,Mexico
+681,2020-01-06 11:14:35.675675675,1085,506,9030.3852877155,Reseller,Medium,WH-3,Regular,Cancelled,Satisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+511,2020-01-06 17:56:45.405405405,1033,549,8321.095520460287,Reseller,Medium,WH-2,Express,Backorder,Satisfied,False,Unknown,Cash,False,North,Mexico
+143,2020-01-05 11:40:32.432432432,1070,537,6935.234733944291,Online,Medium,WH-2,Overnight,Delivered,Neutral,False,Wrong Item,PayPal,False,West,Mexico
+685,2020-01-01 03:14:35.675675675,1006,559,3965.813466974088,Reseller,Medium,WH-1,2-Day,Cancelled,Unsatisfied,True,Wrong Item,PayPal,False,West,USA
+294,2020-01-04 14:55:08.108108108,1010,550,5096.553818483975,Reseller,Critical,WH-2,Regular,Cancelled,Unsatisfied,False,Wrong Item,Credit Card,False,East,Mexico
+123,2020-01-09 07:08:06.486486486,1056,529,5736.019638205535,Online,Low,WH-2,Express,Backorder,Unsatisfied,False,Late,Wire Transfer,True,West,USA
+419,2020-01-04 13:50:16.216216216,1002,505,5952.523727655599,Direct,High,WH-1,Overnight,Delivered,Neutral,False,Late,Cash,True,West,USA
+737,2020-01-02 18:09:43.783783783,1040,539,5096.553818483975,Reseller,Low,WH-2,Regular,Pending,Unsatisfied,False,Wrong Item,PayPal,False,West,Mexico
+634,2020-01-05 00:25:56.756756756,1037,515,9957.904554661534,Direct,High,WH-2,Overnight,Cancelled,Satisfied,False,Not Specified,Credit Card,True,West,Canada
+536,2020-01-08 10:09:43.783783783,1051,520,3121.265596615195,Direct,Medium,WH-3,Express,Delivered,Satisfied,False,Wrong Item,Cash,False,East,Canada
+382,2020-01-02 04:06:29.189189189,1015,558,3026.3202810051284,Direct,Medium,WH-1,Regular,Delivered,Satisfied,True,Late,Credit Card,False,South,Canada
+939,2020-01-05 14:42:09.729729729,1014,518,2033.8494236102808,Online,Critical,WH-2,Regular,Delivered,Unsatisfied,False,Late,Credit Card,False,North,Mexico
+929,2020-01-06 22:16:12.972972973,1062,540,9116.898623942709,Online,Low,WH-3,Regular,Cancelled,Unsatisfied,False,Late,Cash,True,South,USA
+926,2020-01-03 01:17:50.270270270,1035,554,2007.9992520559408,Reseller,High,WH-2,2-Day,Cancelled,Satisfied,False,Late,PayPal,True,South,USA
+253,2020-01-03 20:32:25.945945945,1084,532,5096.553818483975,Partner,Medium,WH-3,Express,Pending,Satisfied,False,Not Specified,PayPal,False,South,Canada
+696,2020-01-06 23:21:04.864864864,1085,515,7782.009504105458,Online,High,WH-2,Regular,Cancelled,Neutral,False,Wrong Item,Cash,False,North,Canada
+248,2020-01-04 05:24:19.459459459,1036,528,9815.398157076874,Direct,High,WH-3,Express,Cancelled,Unsatisfied,False,Wrong Item,Wire Transfer,False,North,USA
+799,2020-01-06 01:43:47.027027027,1048,547,4704.484786361746,Reseller,Medium,WH-1,Overnight,Cancelled,Unsatisfied,False,Wrong Item,PayPal,True,South,USA
+633,2020-01-07 08:00:00.000000000,1005,507,5096.553818483975,Partner,Medium,WH-1,Regular,Cancelled,Satisfied,True,Unknown,PayPal,False,East,USA
+491,2020-01-09 20:19:27.567567567,1090,544,1271.6815306633905,Direct,Medium,WH-1,Regular,Delivered,Satisfied,False,Damaged,Cash,True,West,Canada
+357,2020-01-04 17:30:48.648648648,1032,554,5632.817052007918,Partner,Critical,WH-2,Express,Delivered,Unsatisfied,True,Damaged,Wire Transfer,False,West,USA
+597,2020-01-07 00:38:55.135135135,1078,541,6818.031895562996,Partner,Low,WH-1,Overnight,Backorder,Satisfied,False,Not Specified,Wire Transfer,True,West,USA
+794,2020-01-05 02:09:43.783783783,1007,510,1018.37137868564,Partner,High,WH-2,Express,Cancelled,Neutral,True,Unknown,PayPal,True,West,Mexico
+30,2020-01-09 14:29:11.351351351,1053,536,5611.215700957078,Online,High,WH-3,Overnight,Pending,Satisfied,True,Wrong Item,Cash,True,West,Mexico
+435,2020-01-05 05:24:19.459459459,1047,559,4059.858719820076,Reseller,Low,WH-1,Regular,Pending,Unsatisfied,True,Not Specified,PayPal,False,South,USA
+168,2020-01-07 03:40:32.432432432,1008,508,9651.92304423736,Partner,Critical,WH-2,2-Day,Backorder,Unsatisfied,False,Unknown,Credit Card,True,North,Mexico
+917,2020-01-02 13:11:21.081081081,1005,520,4450.276396174904,Online,Medium,WH-2,Overnight,Delivered,Satisfied,False,Not Specified,Cash,True,South,Canada
+609,2020-01-02 01:04:51.891891891,1082,538,1623.0769117653415,Partner,High,WH-1,Express,Delivered,Unsatisfied,False,Damaged,Wire Transfer,False,South,USA
+734,2020-01-02 00:38:55.135135135,1066,531,6026.498150501274,Online,Critical,WH-3,Express,Backorder,Neutral,True,Not Specified,Credit Card,False,West,Mexico
+44,2020-01-05 06:42:09.729729729,1077,517,3618.214503944224,Direct,Critical,WH-1,Overnight,Delivered,Unsatisfied,True,Late,Cash,True,West,USA
+271,2020-01-04 23:21:04.864864864,1005,539,2651.9554473430044,Partner,Low,WH-1,Regular,Backorder,Unsatisfied,True,Wrong Item,Cash,False,North,USA
+611,2020-01-08 02:48:38.918918919,1074,504,7265.3019358657475,Online,Critical,WH-2,2-Day,Delivered,Unsatisfied,True,Not Specified,Cash,True,South,Canada
+246,2020-01-07 16:51:53.513513513,1031,554,4907.82613258543,Online,High,WH-2,Express,Delivered,Unsatisfied,False,Not Specified,Credit Card,False,West,USA
+204,2020-01-04 15:47:01.621621621,1017,557,2518.2491333569933,Online,Medium,WH-3,Express,Cancelled,Satisfied,True,Wrong Item,PayPal,True,North,Canada
+126,2020-01-02 16:25:56.756756756,1096,532,2026.4560547625288,Direct,Low,WH-2,Express,Backorder,Neutral,True,Wrong Item,Credit Card,False,West,Mexico
+176,2020-01-09 11:40:32.432432432,1090,515,1249.9243279922775,Direct,Critical,WH-3,2-Day,Delivered,Unsatisfied,True,Late,Wire Transfer,True,West,Canada
+91,2020-01-01 00:12:58.378378378,1088,512,4854.074148581966,Online,High,WH-1,Regular,Pending,Satisfied,True,Late,PayPal,True,South,Mexico
+73,2020-01-06 01:56:45.405405405,1075,504,3990.21192262217,Partner,Critical,WH-2,Overnight,Pending,Satisfied,False,Damaged,Credit Card,False,East,Canada
+661,2020-01-04 01:30:48.648648648,1058,548,1692.7230040355323,Direct,High,WH-2,2-Day,Delivered,Unsatisfied,True,Late,Wire Transfer,False,East,Canada
+181,2020-01-02 22:55:08.108108108,1002,507,9387.10287851121,Direct,High,WH-3,Express,Delivered,Satisfied,False,Unknown,Wire Transfer,True,East,USA
+548,2020-01-02 06:42:09.729729729,1040,501,927.4698017365316,Direct,Medium,WH-1,Regular,Pending,Neutral,False,Late,PayPal,True,East,Canada
+992,2020-01-07 09:04:51.891891891,1088,542,3410.946768834845,Reseller,Critical,WH-3,Regular,Cancelled,Unsatisfied,False,Late,Cash,True,North,Canada
+22,2020-01-03 18:35:40.540540540,1055,510,4476.769111724134,Reseller,High,WH-3,Regular,Pending,Unsatisfied,True,Wrong Item,PayPal,True,South,USA
+363,2020-01-02 06:55:08.108108108,1015,530,8520.01709021836,Online,Low,WH-1,Regular,Delivered,Neutral,True,Unknown,PayPal,False,North,Canada
+177,2020-01-05 03:40:32.432432432,1028,527,4706.582297165506,Direct,High,WH-2,Overnight,Pending,Satisfied,True,Not Specified,Credit Card,True,North,Mexico
+879,2020-01-07 10:09:43.783783783,1073,558,1435.029796463003,Direct,Critical,WH-1,2-Day,Backorder,Satisfied,True,Damaged,PayPal,True,North,USA
+21,2020-01-06 22:55:08.108108108,1021,542,1041.2979064749986,Online,Critical,WH-3,Regular,Backorder,Unsatisfied,False,Late,PayPal,False,South,Mexico
+380,2020-01-08 08:12:58.378378378,1042,541,4302.016620571884,Direct,Critical,WH-3,Overnight,Cancelled,Satisfied,True,Unknown,Wire Transfer,False,East,Mexico
+993,2020-01-08 08:00:00.000000000,1019,530,5773.770974155291,Reseller,High,WH-3,Regular,Delivered,Neutral,True,Damaged,Wire Transfer,True,West,Canada
+785,2020-01-01 03:53:30.810810810,1032,519,709.628412481763,Direct,High,WH-3,Express,Cancelled,Satisfied,True,Late,Credit Card,True,North,USA
+720,2020-01-09 01:56:45.405405405,1024,516,8891.099213549127,Online,Medium,WH-3,Regular,Backorder,Neutral,False,Damaged,PayPal,False,North,Canada
+692,2020-01-09 01:30:48.648648648,1010,516,9157.722305746993,Partner,Medium,WH-3,2-Day,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,East,Mexico
+721,2020-01-03 06:29:11.351351351,1022,542,4440.843727452844,Direct,Critical,WH-2,Regular,Pending,Unsatisfied,True,Not Specified,Cash,False,West,USA
+600,2020-01-02 01:43:47.027027027,1016,513,1778.4745374890235,Online,Medium,WH-2,Express,Cancelled,Satisfied,True,Not Specified,Wire Transfer,False,South,Mexico
+394,2020-01-04 19:01:37.297297297,1033,551,5691.356146417182,Partner,High,WH-3,Express,Cancelled,Satisfied,False,Late,Credit Card,False,East,USA
+474,2020-01-09 00:38:55.135135135,1054,528,2968.367310432845,Direct,Critical,WH-1,Overnight,Cancelled,Unsatisfied,False,Wrong Item,Cash,True,West,Canada
+766,2020-01-01 07:47:01.621621621,1088,509,6485.884705185802,Reseller,Critical,WH-3,Express,Delivered,Satisfied,True,Late,PayPal,True,West,USA
+924,2020-01-02 19:40:32.432432432,1020,551,5096.553818483975,Partner,Medium,WH-1,2-Day,Delivered,Neutral,True,Late,Cash,False,South,USA
+970,2020-01-01 08:38:55.135135135,1060,518,5096.553818483975,Partner,Low,WH-2,2-Day,Pending,Unsatisfied,False,Late,Wire Transfer,False,West,USA
+517,2020-01-01 22:16:12.972972972,1028,553,5096.553818483975,Online,Medium,WH-3,Overnight,Delivered,Satisfied,True,Not Specified,Wire Transfer,True,East,Mexico
+334,2020-01-04 14:55:08.108108108,1093,529,4482.237321070153,Direct,Critical,WH-1,Regular,Backorder,Unsatisfied,False,Not Specified,PayPal,True,West,Canada
+83,2020-01-09 11:40:32.432432432,1079,526,2871.8550510321866,Direct,Low,WH-3,Regular,Pending,Unsatisfied,True,Wrong Item,Credit Card,False,South,Canada
+866,2020-01-02 22:42:09.729729729,1003,560,5096.553818483975,Partner,Medium,WH-2,Overnight,Cancelled,Unsatisfied,False,Unknown,Wire Transfer,False,West,USA
+996,2020-01-01 01:56:45.405405405,1092,503,6346.497408297937,Reseller,High,WH-3,Express,Backorder,Unsatisfied,False,Unknown,Credit Card,True,West,Mexico
+480,2020-01-03 17:04:51.891891891,1073,512,2785.0500592114126,Online,High,WH-1,Express,Pending,Satisfied,False,Wrong Item,PayPal,False,East,Mexico
+307,2020-01-02 15:34:03.243243243,1017,504,7290.156126217485,Direct,Low,WH-1,Regular,Cancelled,Satisfied,False,Late,Cash,True,North,Canada
+360,2020-01-06 11:53:30.810810810,1097,507,4100.884611138833,Direct,Critical,WH-1,2-Day,Pending,Neutral,False,Damaged,Wire Transfer,True,North,USA
+61,2020-01-06 19:40:32.432432432,1054,528,2260.0683761415758,Direct,Low,WH-3,Express,Cancelled,Unsatisfied,True,Damaged,PayPal,True,North,USA
+196,2020-01-08 18:35:40.540540540,1074,507,7636.182801063406,Partner,Low,WH-3,Express,Cancelled,Unsatisfied,False,Wrong Item,Credit Card,False,East,USA
+306,2020-01-02 19:40:32.432432432,1073,516,5840.793705112988,Direct,Low,WH-1,Regular,Delivered,Satisfied,True,Unknown,Credit Card,True,North,USA
+140,2020-01-05 05:50:16.216216216,1061,521,1692.1198195919314,Online,Medium,WH-3,Overnight,Backorder,Satisfied,False,Late,Wire Transfer,True,West,Canada
+588,2020-01-08 19:14:35.675675675,1067,505,510.5648948637804,Reseller,High,WH-2,Regular,Delivered,Satisfied,False,Damaged,PayPal,True,West,Canada
+506,2020-01-03 14:03:14.594594594,1025,537,5860.202258503093,Direct,Medium,WH-3,Regular,Pending,Satisfied,True,Wrong Item,Credit Card,True,North,Canada
+299,2020-01-07 13:37:17.837837837,1002,528,5549.935450523946,Online,Medium,WH-3,Express,Delivered,Neutral,False,Not Specified,Wire Transfer,False,West,USA
+341,2020-01-07 09:30:48.648648648,1085,518,9602.12108473462,Direct,Critical,WH-3,Overnight,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,West,Mexico
+192,2020-01-09 00:38:55.135135135,1015,515,5264.42062332658,Partner,Low,WH-1,Express,Pending,Neutral,True,Wrong Item,Credit Card,True,West,USA
+201,2020-01-09 02:22:42.162162162,1090,509,5096.553818483975,Reseller,Medium,WH-3,Express,Backorder,Unsatisfied,True,Unknown,Wire Transfer,False,South,Mexico
+900,2020-01-09 18:09:43.783783783,1071,513,8390.916224102017,Online,High,WH-1,2-Day,Backorder,Unsatisfied,False,Wrong Item,Wire Transfer,True,East,Mexico
+362,2020-01-07 20:58:22.702702702,1063,549,2886.1080417098124,Direct,Critical,WH-1,Express,Cancelled,Satisfied,False,Damaged,Credit Card,True,North,USA
+373,2020-01-05 01:43:47.027027027,1051,520,9674.598493287602,Reseller,Medium,WH-3,Express,Cancelled,Unsatisfied,False,Unknown,Credit Card,False,North,Mexico
+669,2020-01-07 20:32:25.945945946,1085,512,1502.0925608798389,Direct,High,WH-1,Overnight,Pending,Satisfied,True,Damaged,Cash,False,North,Mexico
+273,2020-01-03 09:43:47.027027027,1026,546,2902.1521233760564,Direct,Critical,WH-3,Overnight,Pending,Satisfied,False,Late,PayPal,True,South,USA
+862,2020-01-05 11:53:30.810810810,1005,513,3902.327307026872,Direct,Medium,WH-3,2-Day,Delivered,Satisfied,False,Not Specified,Wire Transfer,True,North,Canada
+898,2020-01-01 00:00:00.000000000,1098,536,2786.3698901929542,Direct,Medium,WH-2,Regular,Pending,Neutral,False,Damaged,Wire Transfer,False,East,Mexico
+183,2020-01-07 21:37:17.837837837,1014,529,4038.834849757926,Reseller,Medium,WH-3,Express,Cancelled,Neutral,True,Not Specified,Wire Transfer,True,North,Canada
+317,2020-01-09 20:06:29.189189189,1069,511,4330.473683265896,Direct,Low,WH-1,Regular,Delivered,Neutral,False,Damaged,PayPal,False,North,USA
+167,2020-01-01 21:11:21.081081081,1001,527,3175.3524000035013,Partner,Medium,WH-1,Regular,Delivered,Satisfied,True,Damaged,Cash,True,North,Canada
+1,2020-01-01 22:03:14.594594594,1005,541,1895.7582740458224,Online,Medium,WH-2,2-Day,Backorder,Satisfied,False,Not Specified,Cash,True,East,USA
+82,2020-01-07 23:34:03.243243243,1030,522,8803.681846399259,Reseller,Medium,WH-1,Overnight,Delivered,Neutral,True,Late,PayPal,True,South,Mexico
+998,2020-01-08 04:19:27.567567567,1059,507,1333.9882520525198,Online,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Late,PayPal,True,South,Canada
+707,2020-01-03 09:43:47.027027027,1026,534,6053.159575964853,Direct,Critical,WH-1,Express,Cancelled,Unsatisfied,True,Damaged,Wire Transfer,True,South,Mexico
+305,2020-01-04 22:42:09.729729729,1063,520,9725.933619998716,Reseller,Medium,WH-3,Overnight,Delivered,Neutral,True,Not Specified,Cash,False,East,Canada
+195,2020-01-06 04:06:29.189189189,1028,514,5096.553818483975,Direct,Medium,WH-3,Express,Delivered,Satisfied,False,Not Specified,Credit Card,True,North,Canada
+977,2020-01-02 19:14:35.675675675,1040,522,2364.795871955137,Partner,Medium,WH-2,Express,Delivered,Neutral,False,Damaged,Cash,False,West,USA
+718,2020-01-06 11:01:37.297297297,1098,535,4306.689584927433,Reseller,Critical,WH-2,Overnight,Backorder,Satisfied,True,Not Specified,Cash,True,West,Canada
+53,2020-01-08 21:11:21.081081081,1039,506,5151.432389477325,Reseller,Critical,WH-3,Overnight,Cancelled,Neutral,False,Not Specified,Credit Card,True,South,Canada
+532,2020-01-05 17:17:50.270270270,1096,550,6229.926141167996,Partner,High,WH-2,Overnight,Pending,Satisfied,False,Late,Cash,False,North,Canada
+32,2020-01-02 10:35:40.540540540,1053,514,9899.785744168035,Reseller,Medium,WH-3,Express,Pending,Unsatisfied,False,Wrong Item,Wire Transfer,True,West,Mexico
+399,2020-01-02 00:00:00.000000000,1005,545,7694.188293617257,Partner,High,WH-1,Express,Backorder,Unsatisfied,True,Wrong Item,PayPal,True,South,Canada
+758,2020-01-05 22:16:12.972972973,1017,559,6158.958329534531,Reseller,High,WH-3,Express,Delivered,Unsatisfied,False,Late,Cash,True,West,Canada
+731,2020-01-09 17:30:48.648648648,1098,530,1938.6069865146512,Reseller,Low,WH-1,Overnight,Cancelled,Unsatisfied,False,Not Specified,Credit Card,False,East,Mexico
+808,2020-01-01 05:11:21.081081081,1099,522,6498.858529538696,Direct,Low,WH-2,2-Day,Backorder,Satisfied,True,Not Specified,Wire Transfer,False,North,Canada
+115,2020-01-03 15:47:01.621621621,1055,517,5096.553818483975,Online,High,WH-1,Express,Delivered,Unsatisfied,False,Wrong Item,Cash,True,West,Canada
+834,2020-01-06 06:55:08.108108108,1033,511,5091.295707180089,Partner,Low,WH-2,Overnight,Pending,Satisfied,True,Late,Cash,True,West,Mexico
+749,2020-01-07 01:56:45.405405405,1051,554,5632.6494852805,Online,Medium,WH-1,Regular,Pending,Unsatisfied,False,Wrong Item,Cash,True,West,Canada
+606,2020-01-04 02:35:40.540540540,1095,511,4319.258560438288,Reseller,Low,WH-3,Regular,Cancelled,Satisfied,True,Damaged,PayPal,True,West,Canada
+153,2020-01-01 08:38:55.135135135,1045,558,3778.2955823757206,Reseller,Critical,WH-2,2-Day,Delivered,Neutral,True,Unknown,Cash,True,West,Mexico
+238,2020-01-03 00:25:56.756756756,1062,541,9034.671432548332,Reseller,Critical,WH-1,Express,Pending,Unsatisfied,False,Wrong Item,Credit Card,False,North,Canada
+335,2020-01-04 02:35:40.540540540,1072,555,2097.934729781923,Online,High,WH-2,2-Day,Cancelled,Satisfied,False,Damaged,Cash,False,South,Mexico
+978,2020-01-09 08:38:55.135135135,1045,560,714.3628612007988,Reseller,Medium,WH-2,Overnight,Pending,Unsatisfied,True,Unknown,PayPal,False,South,USA
+29,2020-01-02 17:17:50.270270270,1003,518,5096.553818483975,Reseller,Medium,WH-2,Express,Cancelled,Satisfied,False,Damaged,PayPal,True,West,Canada
+440,2020-01-01 08:00:00.000000000,1013,535,8153.663650951748,Direct,Critical,WH-2,Regular,Pending,Satisfied,False,Unknown,Cash,False,West,USA
+418,2020-01-08 04:58:22.702702702,1045,537,874.2224200817843,Reseller,Low,WH-2,Regular,Cancelled,Neutral,True,Not Specified,Cash,True,West,Mexico
+587,2020-01-01 09:56:45.405405405,1054,548,3310.3289262170924,Reseller,Medium,WH-1,Express,Pending,Satisfied,False,Damaged,Credit Card,True,East,Canada
+270,2020-01-05 11:14:35.675675675,1044,538,4850.325447123265,Partner,Medium,WH-2,2-Day,Delivered,Unsatisfied,False,Wrong Item,Credit Card,False,West,USA
+837,2020-01-09 14:03:14.594594594,1066,560,5096.553818483975,Online,High,WH-2,2-Day,Cancelled,Neutral,False,Damaged,Credit Card,True,South,USA
+577,2020-01-06 03:27:34.054054054,1007,525,5096.553818483975,Direct,Medium,WH-2,Overnight,Backorder,Neutral,False,Wrong Item,PayPal,True,East,Mexico
+158,2020-01-08 00:25:56.756756756,1086,535,3022.215870576187,Partner,Low,WH-2,2-Day,Backorder,Neutral,False,Damaged,Wire Transfer,False,West,USA
+453,2020-01-08 21:50:16.216216216,1092,510,5179.086116785748,Partner,Medium,WH-2,Overnight,Backorder,Unsatisfied,True,Not Specified,Wire Transfer,False,North,USA
+333,2020-01-09 09:17:50.270270270,1064,508,898.1945588044466,Partner,Low,WH-1,2-Day,Pending,Neutral,False,Damaged,PayPal,False,North,USA
+894,2020-01-08 11:01:37.297297297,1088,508,3165.707725760202,Reseller,High,WH-2,Express,Cancelled,Unsatisfied,False,Not Specified,Cash,False,West,Mexico
+345,2020-01-09 10:09:43.783783783,1078,522,9205.995173054627,Online,Critical,WH-1,Overnight,Delivered,Unsatisfied,False,Damaged,Cash,False,South,Mexico
+487,2020-01-02 17:04:51.891891891,1041,528,7510.534000277125,Direct,Low,WH-2,Overnight,Delivered,Unsatisfied,True,Late,Wire Transfer,True,South,Canada
+656,2020-01-02 19:53:30.810810810,1025,509,5096.553818483975,Partner,High,WH-3,Regular,Delivered,Neutral,True,Late,Cash,True,East,USA
+250,2020-01-05 02:22:42.162162162,1095,533,1138.724710860331,Reseller,Medium,WH-3,Express,Delivered,Unsatisfied,True,Damaged,Credit Card,True,South,Canada
+412,2020-01-07 11:27:34.054054054,1008,542,1786.8655995495626,Online,Medium,WH-3,2-Day,Cancelled,Neutral,True,Not Specified,Cash,True,South,USA
+816,2020-01-06 02:48:38.918918918,1060,511,6443.682499559127,Partner,Medium,WH-3,2-Day,Cancelled,Unsatisfied,True,Not Specified,Cash,False,West,Mexico
+702,2020-01-09 08:38:55.135135135,1054,504,4814.744795998708,Online,Medium,WH-2,Regular,Cancelled,Satisfied,False,Damaged,Cash,True,West,Canada
+4,2020-01-03 10:22:42.162162162,1018,545,1971.790455862705,Direct,Low,WH-1,2-Day,Backorder,Unsatisfied,True,Not Specified,Cash,True,East,Canada
